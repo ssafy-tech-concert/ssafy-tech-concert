@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="./images/ssafy_logo.png" alt="SSAFY" height="200px" />
+  <img src="../images/ssafy_logo.png" alt="SSAFY" height="200px" />
   <br />
   <h1>SSAFY 테크 콘서트 (SSAFY Tech Concert)</h1>
   <br />
