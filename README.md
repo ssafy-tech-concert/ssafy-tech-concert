@@ -22,7 +22,9 @@
 
 <br />
 
-> [🔗 게더타운 오피스 링크 바로가기 Click!](https://gather.town/invite?token=g5VISkik) 👈
+[🔗 게더타운 오피스 링크 바로가기 Click!](https://gather.town/invite?token=g5VISkik) 👈
+
+> 새 창 열기 방법 : CTRL+click (on Windows and Linux) | CMD+click (on MacOS)
 
 <br />
 
