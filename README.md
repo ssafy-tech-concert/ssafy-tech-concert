@@ -20,9 +20,15 @@
 
 &nbsp;&nbsp;**SSAFY 테크 콘서트 스터디**는 `웹 개발 분야의 기술, CS 지식, 최신 개발 트랜드 등`의 주제로 약 10분간 발표를 통해 서로 **지식을 공유**하는 스터디입니다.
 
+`약 10분 발표 > 5분 QnA > 다음 발표 제목 소개(다음 발표자) > 스터디 종료 후 md 파일 커밋`
+
 <br />
 
 [🔗 게더타운 오피스 링크 바로가기 Click!](https://gather.town/invite?token=g5VISkik) 👈
+
+[🔗 Git Rules 바로가기 Click!](https://github.com/ssafy-tech-concert/ssafy-tech-concert/tree/master/rules) 👈
+
+[🔗 참고자료 바로가기 Click!](https://github.com/ssafy-tech-concert/ssafy-tech-concert/tree/master/reference) 👈
 
 > 새 창 열기 방법 : CTRL+click (on Windows and Linux) | CMD+click (on MacOS)
 
@@ -34,7 +40,7 @@
 
 |   날짜 (요일)    | 발표자 |                                                                발표 제목                                                                |
 | :--------------: | :----: | :-------------------------------------------------------------------------------------------------------------------------------------: |
-| 2021.07.30. (금) | 박정환 | ["HTTP가 무엇이고 왜 HTTPS를 사용하는 것인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/HTTP_HTTPS.md) |
+| 2021.07.30. (금) | 박정환 | ["HTTP가 무엇이고 왜 HTTPS를 사용하는 것인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Web/HTTP_HTTPS.md) |
 | 2021.08.03. (화) | 왕수련 |                                             "소프트웨어 방법론 - 워터폴, 애자일, 데브옵스"                                              |
 | 2021.08.04. (수) | 진형준 |                                                                    -                                                                    |
 | 2021.08.06. (금) | 최지우 |                                                                    -                                                                    |
