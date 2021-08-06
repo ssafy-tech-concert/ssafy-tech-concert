@@ -26,7 +26,7 @@
 
 
 
-<img src="../images/waterfall.png">
+<img src="../images/waterfall.png" height="800px" />
 
 
 
