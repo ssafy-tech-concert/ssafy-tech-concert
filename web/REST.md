@@ -38,7 +38,7 @@
 
 ### 클라이언트- 서버 구성도
 
-<img src="../images/client-server.jpg.png">
+<img src="../images/client-server.jpg">
 
 ## REST 제약 조건
 
@@ -75,7 +75,7 @@
 ### 
 
 ### 로드밸런싱: 서버의 부하를 분산하기 위해 N개의 서버에 트래픽을 분배하는
-<img src="../images/로드 밸런싱.png">
+<img src="../images/로드 벨런싱.png">
 
 ### 것이다.
 
