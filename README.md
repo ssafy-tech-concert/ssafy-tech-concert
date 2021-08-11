@@ -61,9 +61,9 @@
 |  2  |              ["REST ,REST API, RESTful"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/REST.md)              |
 |  3  |                ["캐싱이란 무엇인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Cache.md)                |
 
-|  -  |                                                                   DevOps                                                                    |
-| :-: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
-|  1  | ["소프트웨어 방법론 - 워터폴, 애자일, 데브옵스"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/DevOps/SW_methods.md) |
+|  -   |                          SW_methods                          |
+| :--: | :----------------------------------------------------------: |
+|  1   | ["소프트웨어 방법론 - 워터폴, 애자일, 데브옵스"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/DevOps/SW_methods.md) |
 
 |  -  |                                                        Etc                                                        |
 | :-: | :---------------------------------------------------------------------------------------------------------------: |
