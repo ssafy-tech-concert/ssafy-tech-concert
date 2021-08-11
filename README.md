@@ -46,7 +46,7 @@
 | 2021.08.06. (금) | 최지우 |                  ["캐싱이란 무엇인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Cache.md)                  |
 | 2021.08.09. (월) | 김다인 |              ["TDD와 단위테스트"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/TDD%26Unit_Test.md)              |
 | 2021.08.11. (수) | 이아영 |                                          "서버사이드 렌더링(SSR)과 클라이언트 사이드 렌더링(CSR)"                                           |
-| 2021.08.13. (금) | 구련아 |                                                                   테스트                                                                    |
+| 2021.08.13. (금) | 구련아 |                                                         "HTTP Header의 종류와 예시"                                                         |
 | 2021.08.18. (수) | 민성재 |                                                                      -                                                                      |
 
 <br />
