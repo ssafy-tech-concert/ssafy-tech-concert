@@ -70,8 +70,7 @@ SPA(Single Page Application):
 
 | 참고한 사이트 | 링크 |
 | :--- |:--- |
-| **(Youtube)'서버사이드 렌더링(개발자라면 상식으로 알고 있어야 하는 개념 정리_드림코딩by엘리)**|[바로가기]('https://www.youtube.com/watch?v=iZ9csAfU5Os')|
-| **(velog)ru_bryunak.log**|[바로가기]('https://velog.io/@ru_bryunak/SPA-%EC%82%AC%EC%9A%A9%EC%97%90%EC%84%9C%EC%9D%98-SSR%EA%B3%BC-CSR')|
-| **tech.junhabaek 사이트**|[바로가기]('https://tech.junhabaek.net/%EC%9B%B9-%EB%A0%8C%EB%8D%94%EB%A7%81%EC%9D%98-%EC%9C%A0%ED%98%95-1-only-ssr-static-ssr-b10c3916fb09')|
-
-|**구글 developers 사이트**|[바로가기]('https://developers.google.com/web/updates/2019/02/rendering-on-the-web?hl=ko')|
+| **(Youtube)'서버사이드 렌더링(개발자라면 상식으로 알고 있어야 하는 개념 정리_드림코딩by엘리)**|[바로가기](https://www.youtube.com/watch?v=iZ9csAfU5Os)|
+| **(velog)ru_bryunak.log**|[바로가기](https://velog.io/@ru_bryunak/SPA-%EC%82%AC%EC%9A%A9%EC%97%90%EC%84%9C%EC%9D%98-SSR%EA%B3%BC-CSR)|
+| **tech.junhabaek 사이트**|[바로가기](https://tech.junhabaek.net/%EC%9B%B9-%EB%A0%8C%EB%8D%94%EB%A7%81%EC%9D%98-%EC%9C%A0%ED%98%95-1-only-ssr-static-ssr-b10c3916fb09)|
+|**구글 developers 사이트**|[바로가기](https://developers.google.com/web/updates/2019/02/rendering-on-the-web?hl=ko)|
