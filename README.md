@@ -47,7 +47,7 @@
 | 2021.08.09. (월) | 김다인 |           ["TDD와 단위테스트"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/TDD%26Unit_Test.md)                  |
 | 2021.08.11. (수) | 이아영 |                                         ["서버사이드 렌더링(SSR)과 클라이언트 사이드 렌더링(CSR)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/SSRCSR.md)                                             |
 | 2021.08.13. (금) | 구련아 |                                                                      -                                                                      |
-| 2021.08.18. (수) | 민성재 |                                                      [의존성 주입(Dependency Injection]                                                      |
+| 2021.08.18. (수) | 민성재 |                                                     ["의존성 주입(Dependency Injection"]                                                      |
 
 <br />
 
