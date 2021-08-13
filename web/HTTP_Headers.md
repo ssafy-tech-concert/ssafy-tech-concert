@@ -27,7 +27,7 @@
 - **Empty Line(CR+LF)**: 헤더와 메시지 바디 구분
 - **HTTP Body**: 전송되어야 하는 데이터 자체. 항상 존재하는 건 아니다.
 
-<img src="../images/http_msg_structure.PNG" alt="http_msg_structure" />
+<img src="../images/http_msg_structure.png" alt="http_msg_structure" />
 
 
 <br />
