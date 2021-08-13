@@ -46,7 +46,7 @@
 | 2021.08.06. (금) | 최지우 |                  ["캐싱이란 무엇인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Cache.md)                  |
 | 2021.08.09. (월) | 김다인 |           ["TDD와 단위테스트"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/TDD%26Unit_Test.md)                  |
 | 2021.08.11. (수) | 이아영 |                                         ["서버사이드 렌더링(SSR)과 클라이언트 사이드 렌더링(CSR)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/SSRCSR.md)                                             |
-| 2021.08.13. (금) | 구련아 |                                                                      -                                                                      |
+| 2021.08.13. (금) | 구련아 | ["HTTP Header의 종류와 예시"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/HTTP_Headers.md) |
 | 2021.08.18. (수) | 민성재 |                                                     "의존성 주입(Dependency Injection)"                                                      |
 
 <br />
@@ -60,8 +60,8 @@
 |  1  | ["HTTP가 무엇이고 왜 HTTPS를 사용하는 것인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/HTTP_HTTPS.md) |
 |  2  |              ["REST ,REST API, RESTful"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/REST.md)              |
 |  3  |                ["캐싱이란 무엇인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Cache.md)                |
-|  3  |                ["서버사이드 렌더링(SSR)과 클라이언트 사이드 렌더링(CSR)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/SSRCSR.md)                 |
-
+|  4  |                ["서버사이드 렌더링(SSR)과 클라이언트 사이드 렌더링(CSR)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/SSRCSR.md)                 |
+|  5  | ["HTTP Header의 종류와 예시"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/HTTP_Headers.md) |
 
 |  -  |                                                                   SW_Methods                                                                    |
 | :-: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
