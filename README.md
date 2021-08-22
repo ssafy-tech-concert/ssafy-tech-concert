@@ -50,7 +50,7 @@
 | 2021.08.18. (수) | 민성재 |   ["의존성 주입(Dependency Injection"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/SW_methods/Dependency_Injection.md)|
 | 2021.08.20. (금) |   -    |                                                                  스터디 미팅                                                                   |
 | 2021.08.23. (월) | 박정환 |                                                         "리액트를 왜 사용하는 것인가?"                                                         |
-| 2021.08.25. (수) | 왕수련 |                                                                       -                                                                        |
+| 2021.08.25. (수) | 왕수련 |                                                                  "OSI 7 layer"                                                                        |
 | 2021.08.27. (금) | 진형준 |                                                                       -                                                                        |
 | 2021.09.01. (수) | 최지우 |                                                                       -                                                                        |
 | 2021.09.03. (금) | 김다인 |                                                                       -                                                                        |
