@@ -73,6 +73,10 @@
 |  4  | ["서버사이드 렌더링(SSR)과 클라이언트 사이드 렌더링(CSR)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/SSRCSR.md) |
 |  5  |            ["HTTP Header의 종류와 예시"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/HTTP_Headers.md)             |
 
+|  -  |                                                        Front-end                                                         |
+| :-: | :----------------------------------------------------------------------------------------------------------------------: |
+|  1  | [리액트를 왜 사용하는 것인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/React.md) |
+
 |  -  |                                                                  SW Methods                                                                   |
 | :-: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
 |  1  |  ["소프트웨어 방법론 - 워터폴, 애자일, 데브옵스"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/DevOps/SW_methods.md)  |
