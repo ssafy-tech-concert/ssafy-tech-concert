@@ -31,7 +31,7 @@
 
 ## 리액트란?
 
-**리액트(React.js)**는 페이스북(FaceBook)에서 개발한 `JavaScript 라이브러리`의 하나로서 **사용자 인터페이스**를 만들기 위해 사용된다.
+**리액트(React.js)** 는 페이스북(FaceBook)에서 개발한 `JavaScript 라이브러리`의 하나로서 **사용자 인터페이스**를 만들기 위해 사용된다.
 
 <img src="../images/react.png" alt="리액트" />
 
@@ -84,7 +84,7 @@ const element = (
 리액트에서 컴포넌트에는 라이프 사이클 즉, 컴포넌트의 수명 주기가 존재합니다.  
 컴포넌트의 수명은 보통 페이지에서 렌더링되기 전인 준비과정에서 시작하여 페이지에서 사라질 때 끝이납니다.
 
-<img src = "../images/lifecycle.png" alt="라이프 사이클" height="400px" />
+<img src = "../images/lifecycle.png" alt="라이프 사이클" height="500px" />
 
 <br />
 
