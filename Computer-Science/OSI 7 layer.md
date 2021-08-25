@@ -36,7 +36,7 @@
 
   <br />
 
-<img src="./images/7layer1.jpg" width="500px"/>
+<img src="../images/7layer1.jpg" width="500px"/>
 
 - 각 계층은 상하 계급 구조를 가지고 있음
   - 상위 계층의 프로토콜이 제대로 동작하기 위해서는 하위의 모든 계층에 문제가 없어야 함
@@ -221,7 +221,7 @@
 
 ## 3. 전체적인 통신 플로우
 
-<img src="./images/7layer3.jpg" width="500px" height="400px">
+<img src="../images/7layer3.jpg" width="500px" height="400px">
 
 
 
@@ -233,7 +233,7 @@
 
 3. 목적지에 원하는 데이터가 전송됨
 
-<img src="./images/flow.png" width="700px" height="400px">
+<img src="../images/flow.png" width="700px" height="400px">
 
 더 알아보기 : https://better-together.tistory.com/89
 
@@ -241,7 +241,7 @@
 
 ### +) OSI 7 layer 암기 팁
 
-<img src="./images/tip.jpg" width="600px" height="350px">
+<img src="../images/tip.jpg" width="600px" height="350px">
 
 
 
