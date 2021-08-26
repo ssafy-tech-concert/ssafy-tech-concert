@@ -82,6 +82,10 @@
 |  1  |  ["소프트웨어 방법론 - 워터폴, 애자일, 데브옵스"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/DevOps/SW_methods.md)  |
 |  2  | ["의존성 주입(Dependency Injection"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/SW_methods/Dependency_Injection.md) |
 
+|  -  |                                                                Computer-Science                                                                   |
+| :-: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
+|  1  |    ["OSI 7 layer"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/OSI%207%20layer.md)                  |
+
 |  -  |                                                        Etc                                                        |
 | :-: | :---------------------------------------------------------------------------------------------------------------: |
 |  1  | ["TDD와 단위테스트"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/TDD%26Unit_Test.md) |
