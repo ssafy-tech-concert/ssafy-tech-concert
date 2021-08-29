@@ -1,8 +1,4 @@
-#### 트랜잭션이란? 위키 백과에는 다음과 같이 나와있다.
-
-[##_Image|kage@oPrHN/btrdpsJ94Ku/DJL1q6Vq2k3Fujl8bejLq0/img.png|alignCenter|data-origin-width="715" data-origin-height="184" data-ke-mobilestyle="widthOrigin"|||_##]
-
-#### **정리 **
+## 트랜잭션이란? 
 
 #### database의 데이터를 조작하는 작업의 단위
 
@@ -34,7 +30,7 @@ _**❗ ACID**_
 
 #### 한 트랜잭션이 다른 트랜잭션에서 변경한 데이터를 볼 수 있도록 해줄지 말지를 결정하는 것이다.
 
-#### **격리 수준은 왜 생겼을까?**
+### **격리 수준은 왜 생겼을까?**
 
 #### 1\. **Dirty Read** ((오손 데이터 읽기)
 
@@ -48,7 +44,7 @@ _**❗ ACID**_
 
 #### T1이  조건을 걸어 데이터를 검색해서 결과를 얻었는데 T2가 접근해 해당 조건의 데이터 일부를 삭제 추가 연산을 했을 때 ,, 아직 끝나지 않은 T1이 다시 한번 해당 조건으로 데이터를 조회하면 변경된 데이터가 누락된다. 없던 일처럼 rollback을 진행하면 데이터가 꼬이는 문제가 생김.
 
-#### 이러한 세 가지의 문제점 때문에 격리 수준이 생겼습니다. Level 별로 정리를 하자면
+### 이러한 세 가지의 문제점 때문에 격리 수준이 생겼습니다. Level 별로 정리를 하자면
 
 #### **LEVEL 1** Read Uncommitted
 
@@ -81,7 +77,3 @@ _**❗ ACID**_
 #### 가장 엄격한 격리 수준
 
 #### 모든 문제점을 해결 가능하지만 그 대신 동시 처리 성능은 급격히 떨어질 수 있다.  
-
-#### 표 정리 
-
-[##_Image|kage@0begw/btrdooPexFo/thtVV9Kp8sFBvmSPmel8A1/img.png|alignCenter|data-origin-width="606" data-origin-height="213" data-ke-mobilestyle="widthOrigin"|||_##]
