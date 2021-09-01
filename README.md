@@ -47,13 +47,13 @@
 | 2021.08.09. (월) | 김다인 |               ["TDD와 단위테스트"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/TDD%26Unit_Test.md)                |
 | 2021.08.11. (수) | 이아영 | ["서버사이드 렌더링(SSR)과 클라이언트 사이드 렌더링(CSR)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/SSRCSR.md) |
 | 2021.08.13. (금) | 구련아 |            ["HTTP Header의 종류와 예시"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/HTTP_Headers.md)             |
-| 2021.08.18. (수) | 민성재 | ["의존성 주입(Dependency Injection)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/SW_methods/Dependency_Injection.md)  |
+| 2021.08.18. (수) | 민성재 | ["의존성 주입(Dependency Injection)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/SW_methods/Dependency_Injection.md) |
 | 2021.08.20. (금) |   -    |                                                                  스터디 미팅                                                                   |
 | 2021.08.23. (월) | 박정환 |            [리액트를 왜 사용하는 것인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/React.md)            |
-| 2021.08.25. (수) | 왕수련 |            ["OSI 7 layer"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/OSI%207%20layer.md)                                                                  |
-| 2021.08.27. (금) | 진형준 |                                                                       ["트랜잭션과 Isolation Level"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/Transaction-Isolation-level.md)                                                                        |
-| 2021.09.01. (수) | 최지우 |                                                                       "UI와 UX "                                                                        |
-| 2021.09.03. (금) | 김다인 |                                                           "HTTP Keep Alive"                                                                  |
+| 2021.08.25. (수) | 왕수련 |           ["OSI 7 layer"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/OSI%207%20layer.md)            |
+| 2021.08.27. (금) | 진형준 |  ["트랜잭션과 Isolation Level"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/Transaction-Isolation-level.md)  |
+| 2021.09.01. (수) | 최지우 |                                                                   "UI와 UX "                                                                   |
+| 2021.09.03. (금) | 김다인 |                                                               "HTTP Keep Alive"                                                                |
 | 2021.09.06. (월) | 이아영 |                                                                       -                                                                        |
 | 2021.09.08. (수) | 구련아 |                                                                       -                                                                        |
 | 2021.09.10. (금) | 민성재 |                                                                       -                                                                        |
@@ -65,7 +65,7 @@
 
 ## 🛠 주제별 목록
 
-|  -  |                                                                      Web                                                                       |
+| no  |                                                                      Web                                                                       |
 | :-: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
 |  1  |    ["HTTP가 무엇이고 왜 HTTPS를 사용하는 것인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/HTTP_HTTPS.md)     |
 |  2  |                 ["REST ,REST API, RESTful"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/REST.md)                  |
@@ -73,24 +73,23 @@
 |  4  | ["서버사이드 렌더링(SSR)과 클라이언트 사이드 렌더링(CSR)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/SSRCSR.md) |
 |  5  |            ["HTTP Header의 종류와 예시"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/HTTP_Headers.md)             |
 
-|  -  |                                                        Front-end                                                         |
+| no  |                                                     Computer Science                                                      |
+| :-: | :-----------------------------------------------------------------------------------------------------------------------: |
+|  1  | ["OSI 7 layer"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/OSI%207%20layer.md) |
+
+| no  |                                                        Front-end                                                         |
 | :-: | :----------------------------------------------------------------------------------------------------------------------: |
 |  1  | [리액트를 왜 사용하는 것인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/React.md) |
 
-|  -  |                                                                  SW Methods                                                                   |
-| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
-|  1  |  ["소프트웨어 방법론 - 워터폴, 애자일, 데브옵스"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/DevOps/SW_methods.md)  |
+| no  |                                                                   Database                                                                   |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------------: |
+|  1  | ["트랜잭션과 Isolation Level"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/Transaction-Isolation-level.md) |
+
+| no  |                                                                   SW Methods                                                                   |
+| :-: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
+|  1  |  ["소프트웨어 방법론 - 워터폴, 애자일, 데브옵스"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/DevOps/SW_methods.md)   |
 |  2  | ["의존성 주입(Dependency Injection)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/SW_methods/Dependency_Injection.md) |
 
-|  -  |                                                                Computer-Science                                                                   |
-| :-: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
-|  1  |    ["OSI 7 layer"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/OSI%207%20layer.md)                  |
-
-|  -  |                                                        Etc                                                        |
+| no  |                                                        Etc                                                        |
 | :-: | :---------------------------------------------------------------------------------------------------------------: |
 |  1  | ["TDD와 단위테스트"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/TDD%26Unit_Test.md) |
-
-
-|  -  |                                                        Database                                                        |
-| :-: | :---------------------------------------------------------------------------------------------------------------: |
-|  1  |  ["트랜잭션과 Isolation Level"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/Transaction-Isolation-level.md) |
