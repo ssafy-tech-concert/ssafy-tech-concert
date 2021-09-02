@@ -43,6 +43,9 @@ _**❗ ACID**_
 
 #### **Undo(취소) log :** 수행을 실패해 이전의 상태로 되돌린다.
 
+
+
+
 <div id="2"></div> 
 
 ## **❔ Transaction Isolation Level**
