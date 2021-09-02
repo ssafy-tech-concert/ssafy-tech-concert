@@ -1,4 +1,20 @@
-## 트랜잭션이란? 
+<div align="center">
+    <br />
+    <h1>
+        Transaction and Isolation Level
+    </h1>
+</div>
+
+<br />
+
+## 목차
+
+1. [**Transaction?**](#1)
+2. [**Transaction Isolation Level**](#2)
+
+
+<div id="1"></div>
+## Transaction? 
 
 #### database의 데이터를 조작하는 작업의 단위
 
@@ -26,6 +42,7 @@ _**❗ ACID**_
 
 #### **Undo(취소) log :** 수행을 실패해 이전의 상태로 되돌린다.
 
+<div id="2"></div>
 ## **❔ Transaction Isolation Level**
 
 #### 한 트랜잭션이 다른 트랜잭션에서 변경한 데이터를 볼 수 있도록 해줄지 말지를 결정하는 것이다.
