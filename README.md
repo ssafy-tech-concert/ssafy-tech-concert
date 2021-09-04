@@ -52,7 +52,7 @@
 | 2021.08.23. (월) | 박정환 |            [리액트를 왜 사용하는 것인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/React.md)            |
 | 2021.08.25. (수) | 왕수련 |           ["OSI 7 layer"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/OSI%207%20layer.md)            |
 | 2021.08.27. (금) | 진형준 |  ["트랜잭션과 Isolation Level"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/Transaction-Isolation-level.md)  |
-| 2021.09.01. (수) | 최지우 |                                                                   "UI와 UX "                                                                   |
+| 2021.09.01. (수) | 최지우 |  ["UI와 UX"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/UI_UX.md)                                         |
 | 2021.09.06. (월) | 김다인 |                                                               "HTTP Keep Alive"                                                                |
 | 2021.09.10. (금) | 이아영 |                                                                       -                                                                        |
 | 2021.09.13. (월) | 구련아 |                                                                       -                                                                        |
@@ -80,6 +80,7 @@
 | no  |                                                        Front-end                                                         |
 | :-: | :----------------------------------------------------------------------------------------------------------------------: |
 |  1  | [리액트를 왜 사용하는 것인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/React.md) |
+|  2  | ["UI와 UX"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/UI_UX.md)
 
 | no  |                                                                   Database                                                                   |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------------: |
