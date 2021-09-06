@@ -11,6 +11,12 @@
 1. [**스터디 소개**](#1)
 2. [**스터디 진행 일정표**](#2)
 3. [**주제별 목록**](#3)
+   - [Computer Science](#computer-science)
+   - [Web](#web)
+   - [Front-end](#front-end)
+   - [Database](#database)
+   - [SW Methods](#sw-methods)
+   - [ETC](#etc)
 
 <br />
 
@@ -18,9 +24,9 @@
 
 ## 💁🏻‍♂ 스터디 소개
 
-&nbsp;&nbsp;**SSAFY 테크 콘서트 스터디**는 `웹 개발 분야의 기술, CS 지식, 최신 개발 트랜드 등`의 주제로 약 10분간 발표를 통해 서로 **지식을 공유**하는 스터디입니다.
+**SSAFY 테크 콘서트 스터디**는 **웹 개발 분야의 기술, CS 지식, 최신 개발 트랜드 등**의 주제로 약 10분간 발표를 통해 서로 **지식을 공유**하는 스터디입니다.
 
-`약 10분 발표` > `5분 QnA` > `다음 발표 제목 소개(다음 발표자)` > `스터디 종료 후 md 파일 커밋`
+`약 10분 발표` > `5분 QnA` > `다음 발표 주제 소개(다음 발표자)` > `스터디 종료 후 md 파일 커밋`
 
 <br />
 
@@ -80,6 +86,14 @@
 
 ## 🛠 주제별 목록
 
+<div id="computer-science"></div>
+
+| no  |                                                     Computer Science                                                      |
+| :-: | :-----------------------------------------------------------------------------------------------------------------------: |
+|  1  | ["OSI 7 layer"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/OSI%207%20layer.md) |
+
+<div id="web"></div>
+
 | no  |                                                                      Web                                                                       |
 | :-: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
 |  1  |    ["HTTP가 무엇이고 왜 HTTPS를 사용하는 것인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/HTTP_HTTPS.md)     |
@@ -88,23 +102,27 @@
 |  4  | ["서버사이드 렌더링(SSR)과 클라이언트 사이드 렌더링(CSR)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/SSRCSR.md) |
 |  5  |            ["HTTP Header의 종류와 예시"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/HTTP_Headers.md)             |
 
-| no  |                                                     Computer Science                                                      |
-| :-: | :-----------------------------------------------------------------------------------------------------------------------: |
-|  1  | ["OSI 7 layer"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/OSI%207%20layer.md) |
+<div id="front-end"></div>
 
 | no  |                                                        Front-end                                                         |
 | :-: | :----------------------------------------------------------------------------------------------------------------------: |
 |  1  | [리액트를 왜 사용하는 것인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/React.md) |
 |  2  |           ["UI와 UX"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/UI_UX.md)           |
 
+<div id="database"></div>
+
 | no  |                                                                   Database                                                                   |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------------: |
 |  1  | ["트랜잭션과 Isolation Level"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/Transaction-Isolation-level.md) |
+
+<div id="sw-methods"></div>
 
 | no  |                                                                   SW Methods                                                                   |
 | :-: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
 |  1  |  ["소프트웨어 방법론 - 워터폴, 애자일, 데브옵스"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/DevOps/SW_methods.md)   |
 |  2  | ["의존성 주입(Dependency Injection)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/SW_methods/Dependency_Injection.md) |
+
+<div id="etc"></div>
 
 | no  |                                                        Etc                                                        |
 | :-: | :---------------------------------------------------------------------------------------------------------------: |
