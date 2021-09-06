@@ -40,39 +40,39 @@
 
 ### 2021년 7월
 
-|   날짜 (요일)    | 발표자 |                                                                발표 제목                                                                |
-| :--------------: | :----: | :-------------------------------------------------------------------------------------------------------------------------------------: |
-| 2021.07.30. (금) | 박정환 | ["HTTP가 무엇이고 왜 HTTPS를 사용하는 것인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/HTTP_HTTPS.md) |
+| 날짜 (요일) | 발표자 |                                                                발표 제목                                                                |
+| :---------: | :----: | :-------------------------------------------------------------------------------------------------------------------------------------: |
+| 07.30. (금) | 박정환 | ["HTTP가 무엇이고 왜 HTTPS를 사용하는 것인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/HTTP_HTTPS.md) |
 
 ### 2021년 8월
 
-|   날짜 (요일)    | 발표자 |                                                                   발표 제목                                                                    |
-| :--------------: | :----: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
-| 2021.08.03. (화) | 왕수련 |  ["소프트웨어 방법론 - 워터폴, 애자일, 데브옵스"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/DevOps/SW_methods.md)   |
-| 2021.08.04. (수) | 진형준 |                 ["REST ,REST API, RESTful"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/REST.md)                  |
-| 2021.08.06. (금) | 최지우 |                   ["캐싱이란 무엇인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Cache.md)                    |
-| 2021.08.09. (월) | 김다인 |               ["TDD와 단위테스트"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/TDD%26Unit_Test.md)                |
-| 2021.08.11. (수) | 이아영 | ["서버사이드 렌더링(SSR)과 클라이언트 사이드 렌더링(CSR)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/SSRCSR.md) |
-| 2021.08.13. (금) | 구련아 |            ["HTTP Header의 종류와 예시"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/HTTP_Headers.md)             |
-| 2021.08.18. (수) | 민성재 | ["의존성 주입(Dependency Injection)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/SW_methods/Dependency_Injection.md) |
-| 2021.08.20. (금) |   -    |                                                                  스터디 미팅                                                                   |
-| 2021.08.23. (월) | 박정환 |            [리액트를 왜 사용하는 것인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/React.md)            |
-| 2021.08.25. (수) | 왕수련 |           ["OSI 7 layer"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/OSI%207%20layer.md)            |
-| 2021.08.27. (금) | 진형준 |  ["트랜잭션과 Isolation Level"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/Transaction-Isolation-level.md)  |
+| 날짜 (요일) | 발표자 |                                                                   발표 제목                                                                    |
+| :---------: | :----: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
+| 08.03. (화) | 왕수련 |  ["소프트웨어 방법론 - 워터폴, 애자일, 데브옵스"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/DevOps/SW_methods.md)   |
+| 08.04. (수) | 진형준 |                 ["REST ,REST API, RESTful"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/REST.md)                  |
+| 08.06. (금) | 최지우 |                   ["캐싱이란 무엇인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Cache.md)                    |
+| 08.09. (월) | 김다인 |               ["TDD와 단위테스트"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/TDD%26Unit_Test.md)                |
+| 08.11. (수) | 이아영 | ["서버사이드 렌더링(SSR)과 클라이언트 사이드 렌더링(CSR)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/SSRCSR.md) |
+| 08.13. (금) | 구련아 |            ["HTTP Header의 종류와 예시"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/HTTP_Headers.md)             |
+| 08.18. (수) | 민성재 | ["의존성 주입(Dependency Injection)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/SW_methods/Dependency_Injection.md) |
+| 08.20. (금) |   -    |                                                                  스터디 미팅                                                                   |
+| 08.23. (월) | 박정환 |            [리액트를 왜 사용하는 것인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/React.md)            |
+| 08.25. (수) | 왕수련 |           ["OSI 7 layer"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/OSI%207%20layer.md)            |
+| 08.27. (금) | 진형준 |  ["트랜잭션과 Isolation Level"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/Transaction-Isolation-level.md)  |
 
 ### 2021년 9월
 
-|   날짜 (요일)    | 발표자 |                                              발표 제목                                               |
-| :--------------: | :----: | :--------------------------------------------------------------------------------------------------: |
-| 2021.09.01. (수) | 최지우 | ["UI와 UX"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/UI_UX.md) |
-| 2021.09.06. (월) | 김다인 |                                          "HTTP Keep Alive"                                           |
-| 2021.09.10. (금) | 이아영 |                                                  -                                                   |
-| 2021.09.13. (월) | 구련아 |                                                  -                                                   |
-| 2021.09.15. (수) | 민성재 |                                                  -                                                   |
-| 2021.09.17. (금) |   -    |                                             스터디 미팅                                              |
-| 2021.09.24. (금) | 박정환 |                                                  -                                                   |
-| 2021.09.27. (월) | 왕수련 |                                                  -                                                   |
-| 2021.09.29. (수) | 진형준 |                                                  -                                                   |
+| 날짜 (요일) | 발표자 |                                              발표 제목                                               |
+| :---------: | :----: | :--------------------------------------------------------------------------------------------------: |
+| 09.01. (수) | 최지우 | ["UI와 UX"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/UI_UX.md) |
+| 09.06. (월) | 김다인 |                                          "HTTP Keep Alive"                                           |
+| 09.10. (금) | 이아영 |                                                  -                                                   |
+| 09.13. (월) | 구련아 |                                                  -                                                   |
+| 09.15. (수) | 민성재 |                                                  -                                                   |
+| 09.17. (금) |   -    |                                             스터디 미팅                                              |
+| 09.24. (금) | 박정환 |                                                  -                                                   |
+| 09.27. (월) | 왕수련 |                                                  -                                                   |
+| 09.29. (수) | 진형준 |                                                  -                                                   |
 
 <br />
 
