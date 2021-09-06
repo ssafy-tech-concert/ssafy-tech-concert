@@ -1,12 +1,12 @@
 <div align="center">
   <br />
-  <h1>발표 제목</h1>
+  <h1>UI와 UX</h1>
   <br />
 </div>
 
 ## 목차
 
-1. [**UI와 UX**](#1)
+1. [**UI/UX**](#1)
 2. [**UI디자이너와 UX 기획자**](#2)
 3. [**HIG**](#3)
 4. [**HIG 사용 이유**](#4)
@@ -15,7 +15,7 @@
 
 <div id="1"></div>
 
-## UI와 UX
+## UI/UX
 
 UI
  - User Interface
