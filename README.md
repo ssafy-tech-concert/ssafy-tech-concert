@@ -71,7 +71,7 @@
 | 날짜 (요일) | 발표자 |                                              발표 제목                                               |
 | :---------: | :----: | :--------------------------------------------------------------------------------------------------: |
 | 09.01. (수) | 최지우 | ["UI와 UX"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/UI_UX.md) |
-| 09.06. (월) | 김다인 |                                          "HTTP Keep Alive"                                           |
+| 09.06. (월) | 김다인 |["HTTP Keep Alive"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/http_keepalive.md)|
 | 09.10. (금) | 이아영 |                                             "정규표현식"                                             |
 | 09.13. (월) | 구련아 |                                                  -                                                   |
 | 09.15. (수) | 민성재 |                                                  -                                                   |
@@ -101,6 +101,7 @@
 |  3  |                   ["캐싱이란 무엇인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Cache.md)                    |
 |  4  | ["서버사이드 렌더링(SSR)과 클라이언트 사이드 렌더링(CSR)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/SSRCSR.md) |
 |  5  |            ["HTTP Header의 종류와 예시"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/HTTP_Headers.md)             |
+|  6  |              ["HTTP Keep Alive"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/http_keepalive.md)                  |
 
 <div id="front-end"></div>
 
