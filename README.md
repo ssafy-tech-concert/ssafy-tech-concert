@@ -73,7 +73,7 @@
 | 09.01. (수) | 최지우 | ["UI와 UX"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/UI_UX.md) |
 | 09.06. (월) | 김다인 |["HTTP Keep Alive"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/http_keepalive.md)|
 | 09.10. (금) | 이아영 |                                             "정규표현식"                                             |
-| 09.13. (월) | 구련아 |                                                  -                                                   |
+| 09.13. (월) | 구련아 | "타입스크립트" |
 | 09.15. (수) | 민성재 |                                                  -                                                   |
 | 09.17. (금) |   -    |                                             스터디 미팅                                              |
 | 09.24. (금) | 박정환 |                                                  -                                                   |
