@@ -74,7 +74,7 @@
 | 09.06. (월) | 김다인 | ["HTTP Keep Alive"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/http_keepalive.md) |
 | 09.10. (금) | 이아영 |        ["정규표현식"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/REGEX.md)        |
 | 09.13. (월) | 구련아 |                                                 "타입스크립트"                                                  |
-| 09.15. (수) | 민성재 |                                                  "Web Socket"                                                        |
+| 09.15. (수) | 민성재 |                                             "Web Socket과 WebRTC"                                                        |
 | 09.17. (금) |   -    |                                                   스터디 미팅                                                   |
 | 09.24. (금) | 박정환 |                                                        -                                                        |
 | 09.27. (월) | 왕수련 |                                                        -                                                        |
