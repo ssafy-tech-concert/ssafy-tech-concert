@@ -1,4 +1,22 @@
-### 1. 기존 HTTP 의 동작 개념
+<div align="center">
+  <br />
+  <h1>WebSocket & WebRTC</h1>
+  <br />
+</div>
+
+## 목차
+
+1. [**기존 HTTP 의 동작 개념**](#1)
+2. [**Web Socket 의 등장**](#2)
+3. [**Web Socket Server**](#3)
+4. [**WebRTC 란**](#3)
+
+<br />
+
+<div id="1"></div>
+
+## 기존 HTTP 의 동작 개념
+
 ![](https://images.velog.io/images/alstjdwo1601/post/6ab32629-e0d6-4d53-80a7-65f94f8d164f/image.png)
 
 기존의 HTTP 통신은 클라이언트의 HTTP Request 를 받은 웹 서버가 Response를 보내주는 방식입니다. 클라이언트가 브라우저를 통해 특정 페이지를 요청하면(Request) 페이지를 구성하는 모든 자료를 서버가 보내줍니다.(Response)
@@ -14,10 +32,13 @@ HTTP 는 실시간 서비스를 위해 Polling 이라는 기술을 썼습니다.
 
 이를 개선한 Long Polling 이라는 기술은 이벤트가 발생하는 경우에만 서버에서 Response를 하는 방식이지만 이 역시 많은 커넥션이 생기면 Polling 과 동일한 문제점을 가진다.
 
------------------------
+<br />
+
+<div id="2"></div>
+
+## Web Socket 의 등장
 
 
-### 2. Web Socket 의 등장
 ![](https://images.velog.io/images/alstjdwo1601/post/a0bf8186-e626-48c0-97eb-555892b76de6/image.png)
 
 웹 소켓은 이러한 HTTP 의 한계를 개선하기 위해 등장했습니다. 기존의 Request - Response 구조를 대신하여 커넥션이 Open 되어있는지 Close 되어있는지를 체크합니다.
@@ -37,10 +58,12 @@ Connection : Upgrade 라는 헤더는 위의 Upgrade가 명시된 경우 필수�
 
 또한 기존의 XMLHttpRequest + Server-Sent Event 를 조합하여 양방향 통신을 구현하던 AJAX 에 비해 설계과 구현이 간단하다는 장점이 있습니다.
 
- 
- ---------------------------
+<br />
 
-### 3. Web Socket 서버
+<div id="3"></div>
+
+## Web Socket Server
+
 
 ![](https://images.velog.io/images/alstjdwo1601/post/ae5ff333-b757-48f8-9a4c-33147cfda3e7/image.png)
 
@@ -52,9 +75,10 @@ Connection : Upgrade 라는 헤더는 위의 Upgrade가 명시된 경우 필수�
 
 그리고 항상 연결상태를 유지하는 Stateful 한 기술이기에 부하가 생길 수 있습니다.
 
------------------------------------------
+<br />
 
-### 4. WebRTC 란?
+## WebRTC 란
+
 ![](https://images.velog.io/images/alstjdwo1601/post/a171e99c-51d6-41ca-bd5b-40bd90d877bd/image.png)
 
 WebRTC(Web Real Time Communication) 란 중간에 서버를 두지않고 클라이언트들의 브라우저가 직접 연결되는 기술입니다.
@@ -73,6 +97,9 @@ https://alnova2.tistory.com/1110 에 더 자세한 내용이 담겨있다. )
 즉, WebRTC 기술은 수 많은 사람들이 쓰기에는 제약이 있기에 확장성이 낮습니다.
 
 다만 이 두 가지 기술은 리얼타임 서비스를 구현할 수 있게 해주며 전부 Javascript 를 통해 배울 수 있다고 합니다.
+
+
+
 
 
 --------------------------------------------------------
