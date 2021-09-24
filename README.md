@@ -76,7 +76,7 @@
 | 09.13. (월) | 구련아 |        ["타입스크립트"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/TypeScript.md)         |
 | 09.15. (수) | 민성재 |    ["Web Socket과 WebRTC"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/WebSocket%26WebRTC.md)    |
 | 09.17. (금) |   -    |                                                          스터디 미팅                                                          |
-| 09.24. (금) | 박정환 | ["왜 Bundler을 사용해야 하는가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Bundler.md") |
+| 09.24. (금) | 박정환 | ["왜 Bundler를 사용해야 하는가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Bundler.md") |
 | 09.27. (월) | 왕수련 |                                                               -                                                               |
 | 09.29. (수) | 진형준 |                                                               -                                                               |
 
@@ -111,7 +111,7 @@
 |  1  |   [리액트를 왜 사용하는 것인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/React.md)    |
 |  2  |             ["UI와 UX"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/UI_UX.md)              |
 |  3  |        ["타입스크립트"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/TypeScript.md)         |
-|  4  | ["왜 Bundler을 사용해야 하는가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Bundler.md") |
+|  4  | ["왜 Bundler를 사용해야 하는가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Bundler.md") |
 
 <div id="database"></div>
 

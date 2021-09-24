@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <h1>왜 Bundler을 사용해야 하는가?</h1>
+  <h1>왜 Bundler를 사용해야 하는가?</h1>
   <br />
 </div>
 
