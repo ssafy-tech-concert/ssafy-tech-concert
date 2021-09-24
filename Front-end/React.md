@@ -99,7 +99,7 @@ const element = (
 
 <br />
 
-## 출처
+## 참고 자료
 
 - https://ko.reactjs.org/
 - https://velog.io/@dbfudgudals/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%9D%98-%EC%9E%A5%EC%A0%90%EA%B3%BC-%EB%8B%A8%EC%A0%90
