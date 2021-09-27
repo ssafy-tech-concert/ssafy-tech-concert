@@ -77,7 +77,7 @@
 | 09.15. (수) | 민성재 |   ["Web Socket과 WebRTC"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/WebSocket%26WebRTC.md)    |
 | 09.17. (금) |   -    |                                                         스터디 미팅                                                          |
 | 09.24. (금) | 박정환 | ["왜 Bundler를 사용해야 하는가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Bundler.md) |
-| 09.27. (월) | 왕수련 |                                                           MVC 패턴                                                           |
+| 09.27. (월) | 왕수련 |             ["MVC 패턴"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/SW_methods/MVC_pattern.md)      |
 
 ### 2021년 10월
 
