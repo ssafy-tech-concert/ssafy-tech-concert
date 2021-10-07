@@ -150,6 +150,7 @@
 | :-: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
 |  1  |  ["소프트웨어 방법론 - 워터폴, 애자일, 데브옵스"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/DevOps/SW_methods.md)   |
 |  2  | ["의존성 주입(Dependency Injection)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/SW_methods/Dependency_Injection.md) |
+|  3  | ["MVC 패턴"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/SW_methods/MVC_pattern.md)                                   |
 
 <div id="etc"></div>
 
