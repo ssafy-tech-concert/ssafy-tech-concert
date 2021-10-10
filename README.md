@@ -9,8 +9,9 @@
 ## 목차
 
 1. [**스터디 소개**](#1)
-2. [**스터디 진행 일정표**](#2)
-3. [**주제별 목록**](#3)
+1. [**스터디 멤버**](#2)
+1. [**스터디 진행 일정표**](#3)
+1. [**주제별 목록**](#4)
    - [Computer Science](#computer-science)
    - [Web](#web)
    - [Front-end](#front-end)
@@ -44,6 +45,99 @@
 <br />
 
 <div id="2"></div>
+
+## 👪 스터디 멤버
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/JeongHwan-dev">
+        <img src="https://avatars.githubusercontent.com/u/68452755?v=4" alt="박정환 프로필" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/wangsuuu">
+        <img src="https://avatars.githubusercontent.com/u/57534919?v=4" alt="왕수련 프로필" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jhj960918">
+        <img src="https://avatars.githubusercontent.com/u/65895403?v=4" alt="진형준 프로필" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/eye1228">
+        <img src="https://avatars.githubusercontent.com/u/55131067?v=4" alt="최지우 프로필" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/penglingss">
+        <img src="https://avatars.githubusercontent.com/u/56222478?v=4" alt="김다인 프로필" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dgh03207">
+        <img src="https://avatars.githubusercontent.com/u/58917737?v=4" alt="이아영 프로필" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/anottrx">
+        <img src="https://avatars.githubusercontent.com/u/59449215?v=4" alt="구련아 프로필" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/alstjdwo1601">
+        <img src="https://avatars.githubusercontent.com/u/48443234?v=4" alt="민성재 프로필" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/JeongHwan-dev">
+        박정환
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/wangsuuu">
+        왕수련
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jhj960918">
+        진형준
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/eye1228">
+        최지우
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/penglingss">
+        김다인
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dgh03207">
+        이아영
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/anottrx">
+        구련아
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/alstjdwo1601">
+        민성재
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<div id="3"></div>
 
 ## 📅 스터디 진행 일정표
 
@@ -99,7 +193,7 @@
 
 <br />
 
-<div id="3"></div>
+<div id="4"></div>
 
 ## 🛠 주제별 목록
 
