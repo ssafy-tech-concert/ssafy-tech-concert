@@ -47,7 +47,7 @@ HTTP 프로토콜은 stateless라 하며 이는 서버로 가는 모든 요청�
 
 </pre>
 
-<img src="../images/Cache_storage.jpg">
+
 
 <br />
 
