@@ -178,18 +178,18 @@
 
 ### 2021년 10월
 
-| 날짜 (요일) | 발표자 |                          발표 제목                           |
-| :---------: | :----: | :----------------------------------------------------------: |
-| 10.01. (금) | 진형준 | ["Spring, Spring Boot"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/sping-springboot.md) |
+| 날짜 (요일) | 발표자 |                                                            발표 제목                                                            |
+| :---------: | :----: | :-----------------------------------------------------------------------------------------------------------------------------: |
+| 10.01. (금) | 진형준 |   ["Spring, Spring Boot"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/sping-springboot.md)    |
 | 10.06. (수) | 최지우 | ["Session & JWT"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Session%20%26%20JWT.md) |
-| 10.08. (금) | 김다인 |                  Hash Function, Hash Table                   |
-| 10.13. (수) | 이아영 |                              -                               |
-| 10.15. (금) | 구련아 |                           GraphQL                            |
-| 10.18. (월) | 민성재 |                              -                               |
-| 10.20. (수) |   -    |                         스터디 미팅                          |
-| 10.22. (금) | 박정환 |                              -                               |
-| 10.27. (수) | 왕수련 |                              -                               |
-| 10.29. (금) | 진형준 |                              -                               |
+| 10.08. (금) | 김다인 |                                                    Hash Function, Hash Table                                                    |
+| 10.13. (수) | 이아영 |                                                                -                                                                |
+| 10.15. (금) | 구련아 |                                                             GraphQL                                                             |
+| 10.18. (월) | 민성재 |                                                                -                                                                |
+| 10.20. (수) |   -    |                                                           스터디 미팅                                                           |
+| 10.22. (금) | 박정환 |                                                                -                                                                |
+| 10.27. (수) | 왕수련 |                                                                -                                                                |
+| 10.29. (금) | 진형준 |                                                                -                                                                |
 
 <br />
 
@@ -246,7 +246,7 @@
 
 <div id="etc"></div>
 
-| No  |                                                        Etc                                                        |
+| No  |                                                        ETC                                                        |
 | :-: | :---------------------------------------------------------------------------------------------------------------: |
 |  1  | ["TDD와 단위테스트"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/TDD%26Unit_Test.md) |
 |  2  |         ["정규표현식"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/REGEX.md)         |
