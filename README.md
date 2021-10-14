@@ -183,7 +183,7 @@
 | 10.01. (금) | 진형준 |   ["Spring, Spring Boot"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/sping-springboot.md)    |
 | 10.06. (수) | 최지우 | ["Session & JWT"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Session%20%26%20JWT.md) |
 | 10.08. (금) | 김다인 |                                                    Hash Function, Hash Table                                                    |
-| 10.13. (수) | 이아영 |                                                                -                                                                |
+| 10.13. (수) | 이아영 |        ["Servlet&jsp&WAS"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Servlet&JSP.md)        |
 | 10.15. (금) | 구련아 |                                                             GraphQL                                                             |
 | 10.18. (월) | 민성재 |                                                                -                                                                |
 | 10.20. (수) |   -    |                                                           스터디 미팅                                                           |
@@ -229,6 +229,7 @@
 | No  |                                                          Back-end                                                          |
 | :-: | :------------------------------------------------------------------------------------------------------------------------: |
 |  1  | ["Spring, Spring Boot"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/sping-springboot.md) |
+|  2  |     ["Servlet&jsp&WAS"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Servlet&JSP.md)      |
 
 <div id="database"></div>
 
