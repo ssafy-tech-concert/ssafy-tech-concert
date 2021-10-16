@@ -34,7 +34,7 @@
 - 백엔드와 프론트엔드 모두 제공
 - 실행 방법: [Apollo Studio](https://studio.apollographql.com/), [GraphQL Playground](https://www.graphqlbin.com/)
 - 실행 예시
-  > <img src="../images/graphql_ex.png" alt="graphql_ex" /><br />
+  > <img src="../images/graphql_ex.png" alt="graphql_ex" width="850"/><br />
   > 왼쪽이 Apollo Studio, 오른쪽이 GraphQL Playground
 
 <br />
@@ -60,11 +60,11 @@
 ### GraphQL의 해결 예시
 
 - Overfetching 해결 예시
-  > <img src="../images/graphql_overfetch_sol.png" alt="graphql_overfetch_sol" /><br />
+  > <img src="../images/graphql_overfetch_sol.png" alt="graphql_overfetch_sol" width="900" /><br />
   > 1번 학생의 이름과 반번호만 알고 싶은 경우,  
   > REST는 불필요한 정보까지 가져오지만, GraphQL은 요청한 정보만 가져온다
 - Underfetching 해결 예시
-  > <img src="../images/graphql_underfetch_sol.png" alt="graphql_underfetch_sol" /><br />
+  > <img src="../images/graphql_underfetch_sol.png" alt="graphql_underfetch_sol" width="900" /><br />
   > class들의 정보와 해당 반의 course 정보까지 알고 싶은 경우,  
   > REST는 여러 번의 요청이 필요하지만, GraphQL은 한 번의 요청으로 원하는 정보를 얻을 수 있다
 
@@ -86,12 +86,14 @@
 
   - `query`: 데이터를 읽는데(R) 사용
 
-    > <img src="../images/graphql_query1.png" alt="graphql_query1" /><br />
-    > 예시 1: id가 1인 학생의 이름, 반번호, 나이와 id가 4인 학생의 이름, 반번호를 요청<br /> > <img src="../images/graphql_query2.png" alt="graphql_query2" /><br />
+    > <img src="../images/graphql_query1.png" alt="graphql_query1" width="700" /><br />
+    > 예시 1: id가 1인 학생의 이름, 반번호, 나이와 id가 4인 학생의 이름, 반번호를 요청<br /> 
+    
+    > <img src="../images/graphql_query2.png" alt="graphql_query2" width="700" /><br />
     > 예시 2: id가 30인 학생(newStudent)의 모든 정보를 요청
 
   - `mutation`: 데이터를 바꾸는데(CUD) 사용. DB 등의 데이터를 변경
-    > <img src="../images/graphql_mutation.png" alt="graphql_mutation" /><br />
+    > <img src="../images/graphql_mutation.png" alt="graphql_mutation" width="700" /><br />
     > 예시: id는 30, 이름은 Han, 3반, 여성, 24살의 새로운 학생을 추가
 
 - Scalar types
@@ -178,10 +180,10 @@ const resolvers = {
 
 ### 그 외 문법
 
-- Aliases 지정 가능 (별칭)
-  <img src="../images/graphql_alias.png" alt="graphql_alias" />
+- Aliases 지정 가능 (별칭)      
+  <img src="../images/graphql_alias.png" alt="graphql_alias" width="600" />
 - Operation name 설정 가능 (함수명)  
-  <img src="../images/graphql_oper_name_caption.png" alt="graphql_oper_name_caption" />
+  <img src="../images/graphql_oper_name_caption.png" alt="graphql_oper_name_caption" width="600" />
 - comments (주석): #
 
 <br />
