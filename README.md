@@ -184,8 +184,8 @@
 | 10.06. (수) | 최지우 | ["Session & JWT"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Session%20%26%20JWT.md) |
 | 10.08. (금) | 김다인 |                                                    Hash Function, Hash Table                                                    |
 | 10.13. (수) | 이아영 |    ["Servlet&jsp&WAS"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Servlet%20%26%20JSP.md)    |
-| 10.15. (금) | 구련아 |                                                             GraphQL                                                             |
-| 10.18. (월) | 민성재 |                                                           정렬 알고리즘                                                            |
+| 10.15. (금) | 구련아 |             ["GraphQL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/GraphQL.md)              |
+| 10.18. (월) | 민성재 |                                                          정렬 알고리즘                                                          |
 | 10.20. (수) |   -    |                                                           스터디 미팅                                                           |
 | 10.22. (금) | 박정환 |                                                                -                                                                |
 | 10.27. (수) | 왕수련 |                                                                -                                                                |
@@ -223,6 +223,7 @@
 |  2  |             ["UI와 UX"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/UI_UX.md)             |
 |  3  |        ["타입스크립트"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/TypeScript.md)        |
 |  4  | ["왜 Bundler를 사용해야 하는가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Bundler.md) |
+|  5  |            ["GraphQL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/GraphQL.md)            |
 
 <div id="back-end"></div>
 
