@@ -203,9 +203,9 @@
 | 10.08. (금) | 김다인 | ["Hash Function, Hash Table"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Hash_Function%26Hash_Table.md) |
 | 10.13. (수) | 이아영 |       ["Servlet&jsp&WAS"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Servlet%20%26%20JSP.md)       |
 | 10.15. (금) | 구련아 |                ["GraphQL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/GraphQL.md)                 |
-| 10.18. (월) | 민성재 |             ["정렬 알고리즘"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Algorithm/Sorting.md)                 |
+| 10.18. (월) | 민성재 |             ["정렬 알고리즘"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Algorithm/Sorting.md)              |
 | 10.20. (수) |   -    |                       스터디 미팅<br />(관통 프로젝트 진행 과정에서 겪었던 어려움 및 팀 프로젝트 진행 팁 공유)                        |
-| 10.22. (금) | 박정환 |                                                                 "BEM"                                                                 |
+| 10.22. (금) | 박정환 |                    ["BEM"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/BEM.md)                     |
 | 10.27. (수) | 왕수련 |                                                            프로세스 동기화                                                            |
 | 10.29. (금) | 진형준 |                                                                   -                                                                   |
 
@@ -252,6 +252,7 @@
 |  3  |        ["타입스크립트"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/TypeScript.md)        |
 |  4  | ["왜 Bundler를 사용해야 하는가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Bundler.md) |
 |  5  |            ["GraphQL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/GraphQL.md)            |
+|  6  |                ["BEM"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/BEM.md)                |
 
 <br />
 
@@ -297,4 +298,4 @@
 |  1  |           ["TDD와 단위테스트"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/TDD%26Unit_Test.md)           |
 |  2  |                   ["정규표현식"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/REGEX.md)                   |
 |  3  | ["Hash Function, Hash Table"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Hash_Function%26Hash_Table.md) |
-|  4  |   ["정렬 알고리즘"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Algorithm/Sorting.md)                        |
+|  4  |             ["정렬 알고리즘"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Algorithm/Sorting.md)              |
