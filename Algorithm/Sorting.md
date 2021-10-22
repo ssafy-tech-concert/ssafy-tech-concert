@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <h1>발표 제목</h1>
+  <h1>정렬 </h1>
   <br />
 </div>
 
