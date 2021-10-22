@@ -186,7 +186,7 @@
 | 10.13. (수) | 이아영 |       ["Servlet&jsp&WAS"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Servlet%20%26%20JSP.md)       |
 | 10.15. (금) | 구련아 |                ["GraphQL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/GraphQL.md)                 |
 | 10.18. (월) | 민성재 |                                                             정렬 알고리즘                                                             |
-| 10.20. (수) |   -    |                스터디 미팅<br />(Back-end 관통 프로젝트 진행 과정에서 겪었던 어려움 공유 및 팀 프로젝트 진행 팁 공유)                 |
+| 10.20. (수) |   -    |                       스터디 미팅<br />(관통 프로젝트 진행 과정에서 겪었던 어려움 및 팀 프로젝트 진행 팁 공유)                        |
 | 10.22. (금) | 박정환 |                                                                 "BEM"                                                                 |
 | 10.27. (수) | 왕수련 |                                                            프로세스 동기화                                                            |
 | 10.29. (금) | 진형준 |                                                                   -                                                                   |
