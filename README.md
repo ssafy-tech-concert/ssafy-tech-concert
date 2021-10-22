@@ -199,11 +199,17 @@
 
 <div id="computer-science"></div>
 
+### 💻 Computer Science
+
 | No  |                                                     Computer Science                                                      |
 | :-: | :-----------------------------------------------------------------------------------------------------------------------: |
 |  1  | ["OSI 7 layer"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/OSI%207%20layer.md) |
 
+<br />
+
 <div id="web"></div>
+
+### 🌐 Web
 
 | No  |                                                                      Web                                                                       |
 | :-: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -215,7 +221,11 @@
 |  6  |                ["HTTP Keep Alive"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/http_keepalive.md)                 |
 |  7  |            ["Web Socket과 WebRTC"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/WebSocket%26WebRTC.md)             |
 
+<br />
+
 <div id="front-end"></div>
+
+### 📰 Front-end
 
 | No  |                                                          Front-end                                                           |
 | :-: | :--------------------------------------------------------------------------------------------------------------------------: |
@@ -225,20 +235,32 @@
 |  4  | ["왜 Bundler를 사용해야 하는가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Bundler.md) |
 |  5  |            ["GraphQL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/GraphQL.md)            |
 
+<br />
+
 <div id="back-end"></div>
+
+### 📡 Back-end
 
 | No  |                                                          Back-end                                                          |
 | :-: | :------------------------------------------------------------------------------------------------------------------------: |
 |  1  | ["Spring, Spring Boot"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/sping-springboot.md) |
 |  2  | ["Servlet&jsp&WAS"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Servlet%20%26%20JSP.md)  |
 
+<br />
+
 <div id="database"></div>
+
+### 💾 Database
 
 | No  |                                                                   Database                                                                   |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------------: |
 |  1  | ["트랜잭션과 Isolation Level"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/Transaction-Isolation-level.md) |
 
+<br />
+
 <div id="sw-methods"></div>
+
+### 👨🏻‍💻 SW Methods
 
 | No  |                                                                   SW Methods                                                                   |
 | :-: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -246,7 +268,11 @@
 |  2  | ["의존성 주입(Dependency Injection)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/SW_methods/Dependency_Injection.md) |
 |  3  |                  ["MVC 패턴"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/SW_methods/MVC_pattern.md)                  |
 
+<br />
+
 <div id="etc"></div>
+
+### 💡 ETC
 
 | No  |                                                                  ETC                                                                  |
 | :-: | :-----------------------------------------------------------------------------------------------------------------------------------: |
