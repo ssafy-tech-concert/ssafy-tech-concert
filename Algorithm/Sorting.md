@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <h1>정렬 </h1>
+  <h1>정렬알고리즘</h1>
   <br />
 </div>
 
