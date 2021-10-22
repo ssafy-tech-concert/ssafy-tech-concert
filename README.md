@@ -158,7 +158,7 @@
 | 08.11. (수) | 이아영 | ["서버사이드 렌더링(SSR)과 클라이언트 사이드 렌더링(CSR)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/SSRCSR.md) |
 | 08.13. (금) | 구련아 |            ["HTTP Header의 종류와 예시"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/HTTP_Headers.md)             |
 | 08.18. (수) | 민성재 | ["의존성 주입(Dependency Injection)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/SW_methods/Dependency_Injection.md) |
-| 08.20. (금) |   -    |                                                                  스터디 미팅                                                                   |
+| 08.20. (금) |   -    |                                                    스터디 미팅<br />(스터디 개선 방향 논의)                                                    |
 | 08.23. (월) | 박정환 |            [리액트를 왜 사용하는 것인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/React.md)            |
 | 08.25. (수) | 왕수련 |           ["OSI 7 layer"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/OSI%207%20layer.md)            |
 | 08.27. (금) | 진형준 |  ["트랜잭션과 Isolation Level"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/Transaction-Isolation-level.md)  |
@@ -172,7 +172,7 @@
 | 09.10. (금) | 이아영 |              ["정규표현식"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/REGEX.md)               |
 | 09.13. (월) | 구련아 |        ["타입스크립트"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/TypeScript.md)        |
 | 09.15. (수) | 민성재 |   ["Web Socket과 WebRTC"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/WebSocket%26WebRTC.md)    |
-| 09.17. (금) |   -    |                                                         스터디 미팅                                                          |
+| 09.17. (금) |   -    |               스터디 미팅<br />(개발 공부에 도움이 되는 기술 블로그, 유튜브 채널, 웹 사이트, 등 소개 및 공유)                |
 | 09.24. (금) | 박정환 | ["왜 Bundler를 사용해야 하는가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Bundler.md) |
 | 09.27. (월) | 왕수련 |         ["MVC 패턴"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/SW_methods/MVC_pattern.md)         |
 
@@ -186,9 +186,9 @@
 | 10.13. (수) | 이아영 |       ["Servlet&jsp&WAS"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Servlet%20%26%20JSP.md)       |
 | 10.15. (금) | 구련아 |                ["GraphQL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/GraphQL.md)                 |
 | 10.18. (월) | 민성재 |                                                             정렬 알고리즘                                                             |
-| 10.20. (수) |   -    |                                                              스터디 미팅                                                              |
+| 10.20. (수) |   -    |                스터디 미팅<br />(Back-end 관통 프로젝트 진행 과정에서 겪었던 어려움 공유 및 팀 프로젝트 진행 팁 공유)                 |
 | 10.22. (금) | 박정환 |                                                                 "BEM"                                                                 |
-| 10.27. (수) | 왕수련 |                                                        프로세스 동기화                                                                  |
+| 10.27. (수) | 왕수련 |                                                            프로세스 동기화                                                            |
 | 10.29. (금) | 진형준 |                                                                   -                                                                   |
 
 <br />
