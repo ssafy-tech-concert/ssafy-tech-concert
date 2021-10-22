@@ -2,7 +2,9 @@
   <br />
   <img src="./images/ssafy_main_logo.png" alt="SSAFY" /> 
   <br />
-  <img src="./images/ssafy-tech-concert_logo.png" alt="SSAFY" width="500px" />
+  <br />
+  <img src="./images/ssafy-tech-concert_logo.png" alt="SSAFY" width="650px" />
+  <br />
   <br />
 </div>
 
