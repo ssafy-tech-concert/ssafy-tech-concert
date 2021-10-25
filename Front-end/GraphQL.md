@@ -20,7 +20,7 @@
 
 - 페이스북이 만든 `Query Language`
 - GraphQL을 통해 클라이언트는 필요한 것을 정확하게 요청 가능
-- 한번의 요청으로 앱에 필요한 모든 데이터를 가져올 수 있다
+- 한 번의 요청으로 앱에 필요한 모든 데이터를 가져올 수 있다
 - 프론트엔드 단에서는 요청을 전송하고, 백엔드에서는 정보 제공 및 처리
 - [GQL(Graph Query Language)](https://en.wikipedia.org/wiki/Graph_Query_Language)와 다르니 주의
 
@@ -61,7 +61,7 @@
 
 - Overfetching 해결 예시
   > <img src="../images/graphql_overfetch_sol.png" alt="graphql_overfetch_sol" width="900" /><br />
-  > 1번 학생의 이름과 반번호만 알고 싶은 경우,  
+  > 1번 학생의 이름과 반 번호만 알고 싶은 경우,  
   > REST는 불필요한 정보까지 가져오지만, GraphQL은 요청한 정보만 가져온다
 - Underfetching 해결 예시
   > <img src="../images/graphql_underfetch_sol.png" alt="graphql_underfetch_sol" width="900" /><br />
@@ -72,7 +72,7 @@
 
 - GraphQL이 REST를 완전히 대체하지는 않는다
 - 더 작은 서비스인 경우, 또는 자주 요청되는 URL을 아는 경우 REST가 나을 것
-- 서비스가 어떤 종류의 데이터를 어떻게 주고받느냐에 따라 REST와 GraphQL 중 하나를 선택
+- 서비스가 어떤 종류의 데이터를 어떻게 주고받느냐에 따라 GraphQL와 REST 중 하나를 선택
 
 <br />
 
@@ -86,14 +86,15 @@
 
   - `query`: 데이터를 읽는데(R) 사용
 
-    > <img src="../images/graphql_query1.png" alt="graphql_query1" width="700" /><br />
-    > 예시 1: id가 1인 학생의 이름, 반번호, 나이와 id가 4인 학생의 이름, 반번호를 요청<br /> 
+    > <img src="../images/graphql_query1.png" alt="graphql_query1" width="650" /><br />
+    > 예시 1: id가 1인 학생의 이름, 반 번호, 나이와 id가 4인 학생의 이름, 반 번호를 요청<br /> 
     
-    > <img src="../images/graphql_query2.png" alt="graphql_query2" width="700" /><br />
+    > <img src="../images/graphql_query2.png" alt="graphql_query2" width="650" /><br />
     > 예시 2: id가 30인 학생(newStudent)의 모든 정보를 요청
 
-  - `mutation`: 데이터를 바꾸는데(CUD) 사용. DB 등의 데이터를 변경
-    > <img src="../images/graphql_mutation.png" alt="graphql_mutation" width="700" /><br />
+  - `mutation`: 데이터를 바꾸는데(CUD) 사용. 데이터 변경
+    
+    > <img src="../images/graphql_mutation.png" alt="graphql_mutation" width="650" /><br />
     > 예시: id는 30, 이름은 Han, 3반, 여성, 24살의 새로운 학생을 추가
 
 - Scalar types
