@@ -206,8 +206,8 @@
 | 10.18. (월) | 민성재 |             ["정렬 알고리즘"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Algorithm/Sorting.md)              |
 | 10.20. (수) |   -    |                       스터디 미팅<br />(관통 프로젝트 진행 과정에서 겪었던 어려움 및 팀 프로젝트 진행 팁 공유)                        |
 | 10.22. (금) | 박정환 |                    ["BEM"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/BEM.md)                     |
-| 10.27. (수) | 왕수련 | ["프로세스 동기화"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Process_Synchronization.md)   |
-| 10.29. (금) | 진형준 |               ["git 브렌치 전략"](https://codingjhj.tistory.com/21)                                                                                                                |
+| 10.27. (수) | 왕수련 | ["프로세스 동기화"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Process_Synchronization.md) |
+| 10.29. (금) | 진형준 |                                         ["git 브렌치 전략"](https://codingjhj.tistory.com/21)                                         |
 
 ### 2021년 11월
 
@@ -233,9 +233,9 @@
 
 ### 💻 Computer Science
 
-| No  |                                                     Computer Science                                                      |
-| :-: | :-----------------------------------------------------------------------------------------------------------------------: |
-|  1  | ["OSI 7 layer"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/OSI%207%20layer.md) |
+| No  |                                                           Computer Science                                                            |
+| :-: | :-----------------------------------------------------------------------------------------------------------------------------------: |
+|  1  |       ["OSI 7 layer"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/OSI%207%20layer.md)       |
 |  2  | ["프로세스 동기화"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Process_Synchronization.md) |
 
 <br />
@@ -262,7 +262,7 @@
 
 | No  |                                                          Front-end                                                           |
 | :-: | :--------------------------------------------------------------------------------------------------------------------------: |
-|  1  |   [리액트를 왜 사용하는 것인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/React.md)   |
+|  1  |  ["리액트를 왜 사용하는 것인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/React.md)   |
 |  2  |             ["UI와 UX"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/UI_UX.md)             |
 |  3  |        ["타입스크립트"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/TypeScript.md)        |
 |  4  | ["왜 Bundler를 사용해야 하는가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Bundler.md) |
