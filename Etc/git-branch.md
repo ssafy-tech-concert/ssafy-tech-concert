@@ -25,24 +25,7 @@
 <br />
 
 <br />
-1.  branch 만들기 전에 develop branch 최신화 하기!
-    -   develop 브랜치에서
-    -   git fetch origin develop
-    -   git pull origin develop
-2.  본인이 작업할 branch 만들기 -> git checkout -b \[branch 이름\]
-    -   branch 이름은 \[feat, refactor, fix 등등 git commit 메시지 컨벤션 참조\]/luxury-shop-\[이슈 번호\]로 하기로 했음.
-    -   ex) feat/luxury-shop-1, refactor/luxury-shop-8
-3.  작업하고 커밋하고 푸시하기 PR 보내기
-4.  코드 리뷰를 받기
-5.  코드리뷰 반영 후 merge 하기 직전 develop에서 충돌을 방지해야 함. -> 작업 전에 1번에서 최신화한 develop branch가 달라졌을 수도 있기 때문!
-    -   git fetch
-    -   git pull --rebase origin develop
-    -   충돌 나면 해결하기. intelij 상단 메뉴 중 VCS -> Git Resolve Conflict 이용하면 편함
-    -   git rebase --continue 등등 명령어 사용. 충돌 났을 때 모르겠으면 물어보기.
-    -   git push -f origin \[자신이 만든 브랜치\]
-    -   PR에서 Merge 버튼 누르기 or 직접 merge 하기
 
-    -   본인이 올린 PR은 본인이 충돌 해결하고 merge 하기!
 
 
 <div id="2"> </div>
