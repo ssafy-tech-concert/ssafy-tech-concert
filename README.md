@@ -207,14 +207,14 @@
 | 10.20. (수) |   -    |                       스터디 미팅<br />(관통 프로젝트 진행 과정에서 겪었던 어려움 및 팀 프로젝트 진행 팁 공유)                        |
 | 10.22. (금) | 박정환 |                    ["BEM"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/BEM.md)                     |
 | 10.27. (수) | 왕수련 | ["프로세스 동기화"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Process_Synchronization.md) |
-| 10.29. (금) | 진형준 |                                         ["git 브렌치 전략"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/git-branch.md)                                         |
+| 10.29. (금) | 진형준 |              ["git 브렌치 전략"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/git-branch.md)              |
 
 ### 2021년 11월
 
 | 날짜 (요일) | 발표자 |  발표 제목  |
 | :---------: | :----: | :---------: |
 | 11.01. (월) | 최지우 |      -      |
-| 11.03. (수) | 김다인 |      DT      |
+| 11.03. (수) | 김다인 |     DT      |
 | 11.08. (월) | 이아영 |      -      |
 | 11.10. (수) | 구련아 |      -      |
 | 11.15. (월) | 민성재 |      -      |
@@ -314,3 +314,4 @@
 |  2  |                   ["정규표현식"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/REGEX.md)                   |
 |  3  | ["Hash Function, Hash Table"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Hash_Function%26Hash_Table.md) |
 |  4  |             ["정렬 알고리즘"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Algorithm/Sorting.md)              |
+|  5  |              ["git 브렌치 전략"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/git-branch.md)              |
