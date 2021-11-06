@@ -214,7 +214,7 @@
 | 날짜 (요일) | 발표자 |  발표 제목  |
 | :---------: | :----: | :---------: |
 | 11.01. (월) | 최지우 |      ["SQL NOSQL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/tree/master/Database/SQL_NOSQL.md)      |
-| 11.03. (수) | 김다인 |     DT      |
+| 11.03. (수) | 김다인 |     ["Digital Transformation"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Digital_Transformation.md)      |
 | 11.08. (월) | 이아영 |      -      |
 | 11.10. (수) | 구련아 |      -      |
 | 11.15. (월) | 민성재 |      -      |
@@ -315,3 +315,4 @@
 |  3  | ["Hash Function, Hash Table"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Hash_Function%26Hash_Table.md) |
 |  4  |             ["정렬 알고리즘"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Algorithm/Sorting.md)              |
 |  5  |              ["git 브렌치 전략"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/git-branch.md)              |
+|  6  |              ["Digital Transformation"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Digital_Transformation.md)              |
