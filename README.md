@@ -211,17 +211,17 @@
 
 ### 2021년 11월
 
-| 날짜 (요일) | 발표자 |  발표 제목  |
-| :---------: | :----: | :---------: |
-| 11.01. (월) | 최지우 |      ["SQL NOSQL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/tree/master/Database/SQL_NOSQL.md)      |
-| 11.03. (수) | 김다인 |     ["Digital Transformation"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Digital_Transformation.md)      |
-| 11.08. (월) | 이아영 |      -      |
-| 11.10. (수) | 구련아 |      -      |
-| 11.15. (월) | 민성재 |      -      |
-| 11.17. (수) | 박정환 |      -      |
-| 11.22. (월) |   -    | 스터디 미팅 |
-| 11.24. (수) |   -    | 스터디 미팅 |
-| 11.29. (월) | 왕수련 |      -      |
+| 날짜 (요일) | 발표자 |                          발표 제목                           |
+| :---------: | :----: | :----------------------------------------------------------: |
+| 11.01. (월) | 최지우 | ["SQL NOSQL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/tree/master/Database/SQL_NOSQL.md) |
+| 11.03. (수) | 김다인 | ["Digital Transformation"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Digital_Transformation.md) |
+| 11.08. (월) | 이아영 |                              -                               |
+| 11.10. (수) | 구련아 |                            "CORS"                            |
+| 11.15. (월) | 민성재 |                              -                               |
+| 11.17. (수) | 박정환 |                              -                               |
+| 11.22. (월) |   -    |                         스터디 미팅                          |
+| 11.24. (수) |   -    |                         스터디 미팅                          |
+| 11.29. (월) | 왕수련 |                              -                               |
 
 <br />
 
