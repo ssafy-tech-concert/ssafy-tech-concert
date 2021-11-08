@@ -289,6 +289,7 @@
 | No  |                                                                   Database                                                                   |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------------: |
 |  1  | ["트랜잭션과 Isolation Level"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/Transaction-Isolation-level.md) |
+|  2  | ["SQL NOSQL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/tree/master/Database/SQL_NOSQL.md)                                    |
 
 <br />
 
