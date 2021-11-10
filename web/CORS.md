@@ -103,6 +103,6 @@
 
 <br /> <br />
 
-###### 출처: [CORS는 왜 이렇게 우리를 힘들게 하는걸까?]("https://evan-moon.github.io/2020/05/21/about-cors/"), [교차 출처 리소스 공유 (CORS)]("https://developer.mozilla.org/ko/docs/Web/HTTP/CORS"), [동일 출처 정책]("https://developer.mozilla.org/ko/docs/Web/Security/Same-origin_policy"), [fetch와 Cross-Origin 요청]("https://ko.javascript.info/fetch-crossorigin"), [[10분 테코톡] 🌳 나봄의 CORS]("https://www.youtube.com/watch?v=-2TgkKYmJt4"), [웹개발 짜증유발자! CORS가 뭔가요?]("https://www.youtube.com/watch?v=bW31xiNB8Nc")
+###### 출처: [CORS는 왜 이렇게 우리를 힘들게 하는걸까?](https://evan-moon.github.io/2020/05/21/about-cors/), [교차 출처 리소스 공유 (CORS)](https://developer.mozilla.org/ko/docs/Web/HTTP/CORS), [동일 출처 정책](https://developer.mozilla.org/ko/docs/Web/Security/Same-origin_policy), [fetch와 Cross-Origin 요청](https://ko.javascript.info/fetch-crossorigin), [[10분 테코톡] 🌳 나봄의 CORS](https://www.youtube.com/watch?v=-2TgkKYmJt4), [웹개발 짜증유발자! CORS가 뭔가요?](https://www.youtube.com/watch?v=bW31xiNB8Nc)
 
 <br /> <br />
