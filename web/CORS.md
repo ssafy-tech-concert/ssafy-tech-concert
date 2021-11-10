@@ -11,9 +11,7 @@
 ## 목차
 
 1. [**CORS란?**](#1)
-
 2. [**SOP란?**](#2)
-
 3. [**CORS의 접근제어 시나리오**](#3)
 
 <br />
@@ -29,7 +27,7 @@
 - CORS 체제를 통해 안전한 교차 출처 요청 및 데이터 전송 지원 - 보안 문제 해결
 - CORS 외에 우회하는 방식: JSONP, Allow CORS 플러그인
 
-<img src="../images/cors.png" alt="cors" width="800"/>
+<img src="../images/cors.png" alt="cors" width="600"/>
 
 <br />
 
@@ -42,9 +40,7 @@
 - 한 출처에서 불러온 문서나 스크립트가 다른 출처에서 가져온 리소스와 상호작용하는 것을 제한하는 보안 방식
 - 잠재적으로 해로울 수 있는 문서를 분리하여 공격받을 수 있는 경로 감소
 - 출처 3가지가 모두 같은 경우만 동일한 출처라고 인정
-
   - 그러나 port는 명시된 경우에만 번호까지 같아야 하며, 경우에 따라 같거나 다른 출처로 판단 가능
-
 - Internet Explorer는 비표준으로 여기는 다른 브라우저와 다르게 다음 두 경우는 예외적으로 인정
   - 양쪽 도메인 모두가 높음 단계의 보안 수준을 가진 경우
   - port가 다른 경우
@@ -53,11 +49,11 @@
 
 - `scheme`(`protocol`: HTTP 또는 HTTPS), `host`(`domain`), `port`(설정된 경우)로 정의
 
-<img src="../images/cors_origin_url.png" alt="cors_origin_url" width="900"/>
+> <img src="../images/cors_origin_url.png" alt="cors_origin_url" width="910"/>
 
 ### 출처 비교 예시
 
-- URL : `http://edu.ssafy.com`
+> URL이 `http://edu.ssafy.com`일 때 다음 URL들과 동일 출처일까?
 
 |                   URL                    | 결과 |                        이유                        |
 | :--------------------------------------: | :--: | :------------------------------------------------: |
@@ -81,7 +77,7 @@
   - 유저 에이전트가 자동으로 설정 한 헤더 외에 설정할 수 있는 헤더 : Accept, Accept-Language, Content-Language, Content-Type
   - Content-Type의 헤더에 허용된 값 : application/x-www-form-urlencoded, multipart/form-data, text/plain
 
-<img src="../images/cors_simple_request.png" alt="cors_simple_request" width="700"/>
+<img src="../images/cors_simple_request.png" alt="cors_simple_request" width="600"/>
 
 ### Preflight Request (프리플라이트 요청)
 
@@ -94,7 +90,7 @@
 - Preflight Request가 성공해야 Main Request 가능
   - 실제 응답에서도 `Access-Control-Allow-Origin` 헤더 필수
 
-<img src="../images/cors_preflight_request.png" alt="cors_preflight_request" width="700"/>
+<img src="../images/cors_preflight_request.png" alt="cors_preflight_request" width="600"/>
 
 ### Credentialed Request (인증정보 포함 요청)
 
@@ -103,6 +99,10 @@
 - 서버 측은 `Access-Control-Allow-Credentials: true` 필수
 - Access-Control-Allow-Origin는 정확한 정보만 있어야 하므로 \* 사용 불가
 
-<img src="../images/cors_credentialed_request.png" alt="cors_credentialed_request" width="700"/>
+<img src="../images/cors_credentialed_request.png" alt="cors_credentialed_request" width="600"/>
+
+<br /> <br />
 
 ###### 출처: [CORS는 왜 이렇게 우리를 힘들게 하는걸까?]("https://evan-moon.github.io/2020/05/21/about-cors/"), [교차 출처 리소스 공유 (CORS)]("https://developer.mozilla.org/ko/docs/Web/HTTP/CORS"), [동일 출처 정책]("https://developer.mozilla.org/ko/docs/Web/Security/Same-origin_policy"), [fetch와 Cross-Origin 요청]("https://ko.javascript.info/fetch-crossorigin"), [[10분 테코톡] 🌳 나봄의 CORS]("https://www.youtube.com/watch?v=-2TgkKYmJt4"), [웹개발 짜증유발자! CORS가 뭔가요?]("https://www.youtube.com/watch?v=bW31xiNB8Nc")
+
+<br /> <br />
