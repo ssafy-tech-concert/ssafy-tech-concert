@@ -211,17 +211,17 @@
 
 ### 2021년 11월
 
-| 날짜 (요일) | 발표자 |                          발표 제목                           |
-| :---------: | :----: | :----------------------------------------------------------: |
-| 11.01. (월) | 최지우 | ["SQL NOSQL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/tree/master/Database/SQL_NOSQL.md) |
+| 날짜 (요일) | 발표자 |                                                           발표 제목                                                            |
+| :---------: | :----: | :----------------------------------------------------------------------------------------------------------------------------: |
+| 11.01. (월) | 최지우 |           ["SQL NOSQL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/tree/master/Database/SQL_NOSQL.md)            |
 | 11.03. (수) | 김다인 | ["Digital Transformation"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Digital_Transformation.md) |
-| 11.08. (월) | 이아영 |                              -                               |
-| 11.10. (수) | 구련아 |                            "CORS"                            |
-| 11.15. (월) | 민성재 |                              -                               |
-| 11.17. (수) | 박정환 |                              -                               |
-| 11.22. (월) |   -    |                         스터디 미팅                          |
-| 11.24. (수) |   -    |                         스터디 미팅                          |
-| 11.29. (월) | 왕수련 |                              -                               |
+| 11.08. (월) | 이아영 |                                                               -                                                                |
+| 11.10. (수) | 구련아 |                   ["CORS"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/CORS.md)                   |
+| 11.15. (월) | 민성재 |                                                               -                                                                |
+| 11.17. (수) | 박정환 |                                                               -                                                                |
+| 11.22. (월) |   -    |                                                          스터디 미팅                                                           |
+| 11.24. (수) |   -    |                                                          스터디 미팅                                                           |
+| 11.29. (월) | 왕수련 |                                                               -                                                                |
 
 <br />
 
@@ -253,6 +253,7 @@
 |  5  |            ["HTTP Header의 종류와 예시"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/HTTP_Headers.md)             |
 |  6  |                ["HTTP Keep Alive"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/http_keepalive.md)                 |
 |  7  |            ["Web Socket과 WebRTC"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/WebSocket%26WebRTC.md)             |
+|  8  |                           ["CORS"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/CORS.md)                           |
 
 <br />
 
@@ -289,7 +290,7 @@
 | No  |                                                                   Database                                                                   |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------------: |
 |  1  | ["트랜잭션과 Isolation Level"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/Transaction-Isolation-level.md) |
-|  2  | ["SQL NOSQL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/tree/master/Database/SQL_NOSQL.md)                                    |
+|  2  |                  ["SQL NOSQL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/tree/master/Database/SQL_NOSQL.md)                   |
 
 <br />
 
@@ -316,4 +317,4 @@
 |  3  | ["Hash Function, Hash Table"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Hash_Function%26Hash_Table.md) |
 |  4  |             ["정렬 알고리즘"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Algorithm/Sorting.md)              |
 |  5  |              ["git 브렌치 전략"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/git-branch.md)              |
-|  6  |              ["Digital Transformation"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Digital_Transformation.md)              |
+|  6  |    ["Digital Transformation"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Digital_Transformation.md)     |
