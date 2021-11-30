@@ -28,7 +28,7 @@
 
 ## 💁🏻‍♂ 스터디 소개
 
-**SSAFY 테크 콘서트 스터디**는 **웹 개발 분야의 기술, CS 지식, 최신 개발 트랜드 등**의 주제로 약 10분간 발표를 통해 서로 **지식을 공유**하는 스터디입니다.
+**SSAFY 테크 콘서트 스터디**는 **웹 개발 분야의 기술, CS 지식, 최신 개발 트렌드 등**의 주제로 약 10분간 발표를 통해 서로 **지식을 공유**하는 스터디입니다.
 
 <br />
 
@@ -217,11 +217,10 @@
 | 11.03. (수) | 김다인 | ["Digital Transformation"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Digital_Transformation.md) |
 | 11.08. (월) | 이아영 |               ["index"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/index.md)                |
 | 11.10. (수) | 구련아 |                   ["CORS"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/CORS.md)                   |
-| 11.15. (월) | 민성재 |              ["FinTech"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/FinTech.md)                    |
+| 11.15. (월) | 민성재 |                ["FinTech"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/FinTech.md)                |
 | 11.16. (화) |   -    |                                    SSAFY 3기 졸업 및 우리은행 디지털/IT 직무 취업자 멘토링                                     |
-| 11.22. (월) |   -    |                                                          스터디 미팅                                                           |
-| 11.24. (수) |   -    |                                                          스터디 미팅                                                           |
-| 11.29. (월) | 박정환 |                                                               -                                                                |
+| 11.22. (월) |   -    |                                               1학기 관통 프로젝트 개발 관련 QnA                                                |
+| 11.24. (수) |   -    |                                               1학기 관통 프로젝트 개발 관련 QnA                                                |
 
 <br />
 
@@ -319,4 +318,4 @@
 |  4  |             ["정렬 알고리즘"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Algorithm/Sorting.md)              |
 |  5  |              ["git 브렌치 전략"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/git-branch.md)              |
 |  6  |    ["Digital Transformation"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Digital_Transformation.md)     |
-|  7  |               ["FinTech"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/FinTech.md)                       |
+|  7  |                   ["FinTech"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/FinTech.md)                    |
