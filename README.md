@@ -224,16 +224,16 @@
 
 ### 2021년 12월
 
-| 날짜 (요일) | 발표자 |                 발표 제목                 |
-| :---------: | :----: | :---------------------------------------: |
-| 12.01. (수) |   -    |        2학기 스터디 운영 관련 회의        |
-| 12.06. (월) | 박정환 | "동기, 비동기 & 자바스크립트의 실행 모델" |
-| 12.08. (수) | 왕수련 |                     -                     |
-| 12.13. (월) | 진형준 |                     -                     |
-| 12.15. (수) | 최지우 |                     -                     |
-| 12.20. (월) | 김다인 |                     -                     |
-| 12.22. (수) | 이아영 |                     -                     |
-| 12.27. (월) | 구련아 |                     -                     |
+| 날짜 (요일) | 발표자 |                                                                         발표 제목                                                                         |
+| :---------: | :----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 12.01. (수) |   -    |                                                                2학기 스터디 운영 관련 회의                                                                |
+| 12.06. (월) | 박정환 | ["동기, 비동기 & 자바스크립트의 실행 모델"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/synchronous%26asynchronous.md) |
+| 12.08. (수) | 왕수련 |                                                                             -                                                                             |
+| 12.13. (월) | 진형준 |                                                                             -                                                                             |
+| 12.15. (수) | 최지우 |                                                                             -                                                                             |
+| 12.20. (월) | 김다인 |                                                                             -                                                                             |
+| 12.22. (수) | 이아영 |                                                                             -                                                                             |
+| 12.27. (월) | 구련아 |                                                                             -                                                                             |
 
 <br />
 
@@ -273,14 +273,15 @@
 
 ### 📰 Front-end
 
-| No  |                                                          Front-end                                                           |
-| :-: | :--------------------------------------------------------------------------------------------------------------------------: |
-|  1  |  ["리액트를 왜 사용하는 것인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/React.md)   |
-|  2  |             ["UI와 UX"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/UI_UX.md)             |
-|  3  |        ["타입스크립트"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/TypeScript.md)        |
-|  4  | ["왜 Bundler를 사용해야 하는가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Bundler.md) |
-|  5  |            ["GraphQL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/GraphQL.md)            |
-|  6  |                ["BEM"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/BEM.md)                |
+| No  |                                                                         Front-end                                                                         |
+| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  1  |                 ["리액트를 왜 사용하는 것인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/React.md)                 |
+|  2  |                           ["UI와 UX"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/UI_UX.md)                            |
+|  3  |                      ["타입스크립트"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/TypeScript.md)                       |
+|  4  |               ["왜 Bundler를 사용해야 하는가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Bundler.md)                |
+|  5  |                          ["GraphQL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/GraphQL.md)                           |
+|  6  |                              ["BEM"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/BEM.md)                               |
+|  7  | ["동기, 비동기 & 자바스크립트의 실행 모델"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/synchronous%26asynchronous.md) |
 
 <br />
 
