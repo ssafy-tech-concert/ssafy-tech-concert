@@ -228,7 +228,7 @@
 | :---------: | :----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 12.01. (수) |   -    |                                                                2학기 스터디 운영 관련 회의                                                                |
 | 12.06. (월) | 박정환 | ["동기, 비동기 & 자바스크립트의 실행 모델"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/synchronous%26asynchronous.md) |
-| 12.08. (수) | 왕수련 |                                                  "연속/비연속 메모리 할당"                                                                             |
+| 12.08. (수) | 왕수련 | ["연속/비연속 메모리 할당"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Memory_Allocation.md)                  |
 | 12.13. (월) | 진형준 |                                                                             -                                                                             |
 | 12.15. (수) | 최지우 |                                                                             -                                                                             |
 | 12.20. (월) | 김다인 |                                                                             -                                                                             |
@@ -248,7 +248,8 @@
 | No  |                                                           Computer Science                                                            |
 | :-: | :-----------------------------------------------------------------------------------------------------------------------------------: |
 |  1  |       ["OSI 7 layer"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/OSI%207%20layer.md)       |
-|  2  | ["프로세스 동기화"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Process_Synchronization.md) |
+|  2  | ["프로세스 동기화"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Process_Synchronization.md)  |
+|  3  | ["연속/비연속 메모리 할당"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Memory_Allocation.md) | 
 
 <br />
 
