@@ -230,7 +230,7 @@
 | 12.06. (월) | 박정환 | ["동기, 비동기 & 자바스크립트의 실행 모델"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/synchronous%26asynchronous.md) |
 | 12.08. (수) | 왕수련 |          ["연속/비연속 메모리 할당"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Memory_Allocation.md)          |
 | 12.13. (월) |   -    |                                                                  SSAFY 6기 취업자 멘토링                                                                  |
-| 12.15. (수) | 진형준 |                                                                             -                                                                             |
+| 12.15. (수) | 진형준 |     ["Nginx"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Nginx.md)                                                                        -                                                                             |
 | 12.20. (월) | 최지우 |                                                                             -                                                                             |
 | 12.22. (수) | 김다인 |                                                                             -                                                                             |
 | 12.27. (월) | 이아영 |                                                                             -                                                                             |
@@ -267,7 +267,7 @@
 |  6  |                ["HTTP Keep Alive"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/http_keepalive.md)                 |
 |  7  |            ["Web Socket과 WebRTC"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/WebSocket%26WebRTC.md)             |
 |  8  |                           ["CORS"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/CORS.md)                           |
-
+|  9  |                           ["Nginx"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Nginx.md)                           |
 <br />
 
 <div id="front-end"></div>
