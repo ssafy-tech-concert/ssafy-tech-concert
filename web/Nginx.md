@@ -49,7 +49,7 @@ EX) Happy House Backend Login-API
 -   **빠르다** 👍
 
 [##_Image|kage@bhcf0I/btrnLIbf0tk/1Dcj3aUaCVGCSVUau5lVK0/img.png|CDM|1.3|{"originWidth":939,"originHeight":747,"style":"alignLeft","width":567,"height":451}_##]
-![] (https://blog.kakaocdn.net/dn/bhcf0I/btrnLIbf0tk/1Dcj3aUaCVGCSVUau5lVK0/img.png)
+
 
 X축 동시 요청 3천개의 동시 요청이 발생했을 때
 
