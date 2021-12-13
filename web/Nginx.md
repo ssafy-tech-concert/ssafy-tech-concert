@@ -38,7 +38,7 @@ EX) Happy House Backend Login-API
 
 **그렇다면 Nginx 는 Web Server 일까 WAS 일까?**
 
-[##_Image|kage@cgfnqs/btrnB8bXUiW/ycsbbkeagUZ6w3WUP3qE31/img.png|CDM|1.3|{"originWidth":341,"originHeight":189,"style":"alignLeft","filename":"구조.PNG"}_##]
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcgfnqs%2FbtrnB8bXUiW%2FycsbbkeagUZ6w3WUP3qE31%2Fimg.png)
 
 **Web Server 입니다.**
 
@@ -48,7 +48,7 @@ EX) Happy House Backend Login-API
 
 -   **빠르다** 👍
 
-[##_Image|kage@bhcf0I/btrnLIbf0tk/1Dcj3aUaCVGCSVUau5lVK0/img.png|CDM|1.3|{"originWidth":939,"originHeight":747,"style":"alignLeft","width":567,"height":451}_##]
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbhcf0I%2FbtrnLIbf0tk%2F1Dcj3aUaCVGCSVUau5lVK0%2Fimg.png)
 
 
 X축 동시 요청 3천개의 동시 요청이 발생했을 때
@@ -59,8 +59,8 @@ Nginx 50개 요청일때랑 3000개 일때랑 메모리 사용량이 비슷함
 
 Nginx 는 메모리 사용량은 굉장이 효율적으로 사용한다.
 
-[##_Image|kage@toZmp/btrnCByb6rw/ojm2934P5Kngt9xDLkJYN1/img.png|CDM|1.3|{"originWidth":936,"originHeight":703,"style":"alignLeft","width":587,"height":441}_##]
 
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FtoZmp%2FbtrnCByb6rw%2Fojm2934P5Kngt9xDLkJYN1%2Fimg.png)
 초당 요청 처리수
 
 Nginx : 초당 처리를 12000개 할 수 있다.
@@ -69,7 +69,7 @@ Nginx : 초당 처리를 12000개 할 수 있다.
 
 #### 👍 **점유율 : 이제는 Nginx**
 
-[##_Image|kage@cYLvSx/btrnC3VywXH/U1czA0b5R7KxDzvVkejjpK/img.png|CDM|1.3|{"originWidth":880,"originHeight":430,"style":"alignLeft","width":645}_##]
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcYLvSx%2FbtrnC3VywXH%2FU1czA0b5R7KxDzvVkejjpK%2Fimg.png)
 
 -   **Reverse Froxy** ![](https://blog.kakaocdn.net/dn/bufZrE/btrnGjRlYTC/5lzRRa8aIk4jvBZyrHtq50/img.png)
 
