@@ -89,7 +89,7 @@ Nginx : 초당 처리를 12000개 할 수 있다.
 -   **SSL 지원**
     -   **웹사이트와 브라우저(혹은, 두 서버) 사이에 전송된 데이터를 암호화하여 인터넷 연결을 보안을 유지하는 표준 기술**
 
-[##_Image|kage@ntQpo/btrnJBDYV4e/yCfejHOI9dmY6OCWIL7FF1/img.png|CDM|1.3|{"originWidth":940,"originHeight":340,"style":"alignLeft"}_##]
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FntQpo%2FbtrnJBDYV4e%2FyCfejHOI9dmY6OCWIL7FF1%2Fimg.png)
 
 우리 사이트는 보안 처리가 잘 되어 있다 라는 것을 인증해주는 것 SSL이라는 **인증서**
 
@@ -127,3 +127,5 @@ Nginx : 초당 처리를 12000개 할 수 있다.
 [캐시](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Cache.md)
 
 [https://www.youtube.com/watch?v=ZJpT-Wa-pZ8](https://www.youtube.com/watch?v=ZJpT-Wa-pZ8)
+
+[블로그](https://codingjhj.tistory.com/22)
