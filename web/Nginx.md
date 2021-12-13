@@ -80,7 +80,6 @@ Nginx : 초당 처리를 12000개 할 수 있다.
 -   **reverse Proxy** :  
     -   Internet과 appServer사이에 존재하는 서버
     -   요청에따른 처리를 어떤 서버로 할지 밸런싱있게 조율해주는 **로드밸런싱**이 가능하다 
-        -    [##_Image|kage@p4BPC/btrnPDt2Paz/bu4gHEx9VfaaoEJWwxKDk0/img.jpg|CDM|1.3|{"originWidth":793,"originHeight":573,"style":"alignLeft","width":381,"height":275,"caption":"로드벨런싱","filename":"로드 밸런싱.jpg"}_##]
         -   캐시서버가 가능하다  👉 [캐시?](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Cache.md)
         -   자주 요청되는 클라이언트 요청을 저장(캐싱)해둘 수 있다.
         -   한번 더 요청있는 경우 백단까지 안가고 바로 응답 가능 
