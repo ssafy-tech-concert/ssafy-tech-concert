@@ -231,7 +231,7 @@
 | 12.08. (수) | 왕수련 |          ["연속/비연속 메모리 할당"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Memory_Allocation.md)          |
 | 12.13. (월) |   -    |                                                                  SSAFY 6기 취업자 멘토링                                                                  |
 | 12.15. (수) | 진형준 |                               ["Nginx"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Nginx.md)                                |
-| 12.20. (월) | 최지우 |                                                                             -                                                                             |
+| 12.20. (월) | 최지우 |                               [""](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/CI_CD.md)                                              -                                                                             |
 | 12.22. (수) | 김다인 |                                                                             -                                                                             |
 | 12.27. (월) | 이아영 |                              ["JAVA 메모리 구조와 가비지 컬렉터"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/)                              |
 
