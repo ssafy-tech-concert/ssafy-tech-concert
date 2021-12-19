@@ -63,7 +63,7 @@ CI/CD는 애플리케이션의 통합 및 테스트 단계에서부터 제공 �
 
 <br>
 
-<img src="../images/CI_CD.png" alt="CI_CD" />
+<img src="../images/CI_CD.PNG" alt="CI_CD" />
 
 <br>
 
