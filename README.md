@@ -230,10 +230,11 @@
 | 12.06. (월) | 박정환 | ["동기, 비동기 & 자바스크립트의 실행 모델"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/synchronous%26asynchronous.md) |
 | 12.08. (수) | 왕수련 |          ["연속/비연속 메모리 할당"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Memory_Allocation.md)          |
 | 12.13. (월) |   -    |                                                                  SSAFY 6기 취업자 멘토링                                                                  |
-| 12.15. (수) | 김다인 |               ["TCP와 UDP"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/TCP_UDP.md)                 |
-| 12.20. (월) | 최지우 |                               ["CI/CD"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/CI_CD.md)                                                                                                                           |
-| 12.22. (수) | 진형준 |                        ["Nginx"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Nginx.md)                          |
+| 12.15. (수) | 김다인 |                      ["TCP와 UDP"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/TCP_UDP.md)                      |
+| 12.20. (월) | 최지우 |                               ["CI/CD"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/CI_CD.md)                                |
+| 12.22. (수) | 진형준 |                               ["Nginx"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Nginx.md)                                |
 | 12.27. (월) | 이아영 |                              ["JAVA 메모리 구조와 가비지 컬렉터"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/)                              |
+| 12.28. (화) |   -    |                                                              SSAFY 6기 LG CNS 취업자 멘토링                                                               |
 
 <br />
 
@@ -250,7 +251,7 @@
 |  1  |        ["OSI 7 layer"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/OSI%207%20layer.md)        |
 |  2  |  ["프로세스 동기화"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Process_Synchronization.md)  |
 |  3  | ["연속/비연속 메모리 할당"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Memory_Allocation.md) |
-|  4  |           ["TCP와 UDP"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/TCP_UDP.md)               |
+|  4  |             ["TCP와 UDP"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/TCP_UDP.md)             |
 
 <br />
 
