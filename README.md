@@ -233,7 +233,7 @@
 | 12.15. (수) | 김다인 |                      ["TCP와 UDP"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/TCP_UDP.md)                      |
 | 12.20. (월) | 최지우 |                               ["CI/CD"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/CI_CD.md)                                |
 | 12.22. (수) | 진형준 |                               ["Nginx"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Nginx.md)                                |
-| 12.27. (월) | 이아영 |                              ["JAVA 메모리 구조와 가비지 컬렉터"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/)                              |
+| 12.27. (월) | 이아영 |                              ["JVM 메모리 구조와 가비지 컬렉터"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/)                               |
 | 12.28. (화) |   -    |                                                              SSAFY 6기 LG CNS 취업자 멘토링                                                               |
 
 ### 2022년 01월
@@ -280,6 +280,7 @@
 |  2  |  ["프로세스 동기화"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Process_Synchronization.md)  |
 |  3  | ["연속/비연속 메모리 할당"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Memory_Allocation.md) |
 |  4  |             ["TCP와 UDP"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/TCP_UDP.md)             |
+|  5  |                     ["JVM 메모리 구조와 가비지 컬렉터"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/)                      |
 
 <br />
 
