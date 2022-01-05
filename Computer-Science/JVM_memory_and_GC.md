@@ -101,12 +101,6 @@ Heap 영역은 처음 설계될 때, 2가지를 전제로 설계되었다.
 
 생성된 객체는 Eden Space에 가장 먼저 저장이되고, 이S후 urvivor Space 0 과 Survivor Space 1으로 차례대로 이동한다. 이 이후까지 살아있는 객체는 Tenured Space로 이동하게 되는데, 이곳이 old generation Space다.
 
-![Untitled](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/images/gcslides/Slide13.png)
-![Untitled](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/images/gcslides/Slide14.png)
-![Untitled](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/images/gcslides/Slide6.png)
-![Untitled](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/images/gcslides/Slide8.png)
-![Untitled](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/images/gcslides/Slide9.png)
-
 > Java 8 이전에는 PermGen (Permanent Generation)이 존재하였음. 클래스나 메소드의 metadata를 저장하는 공간으로, old 영역에서 살아남은 객체가 저장되는 곳( Major GC가 일어남) 하지만, JAVA8 이후에는 Metaspace가 PermGen의 공간을 대체하게 되었다.
 > **Metadata Space**
 > 자동으로 공간이 resized됨.
