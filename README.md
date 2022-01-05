@@ -272,13 +272,13 @@
 
 ### 💻 Computer Science
 
-| No  |                                                            Computer Science                                                             |
-| :-: | :-------------------------------------------------------------------------------------------------------------------------------------: |
-|  1  |        ["OSI 7 layer"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/OSI%207%20layer.md)        |
-|  2  |  ["프로세스 동기화"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Process_Synchronization.md)  |
-|  3  | ["연속/비연속 메모리 할당"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Memory_Allocation.md) |
-|  4  |             ["TCP와 UDP"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/TCP_UDP.md)             |
-|  5  |                     ["JVM 메모리 구조와 가비지 컬렉터"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/)                      |
+| No  |                                                                Computer Science                                                                 |
+| :-: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
+|  1  |            ["OSI 7 layer"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/OSI%207%20layer.md)            |
+|  2  |      ["프로세스 동기화"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Process_Synchronization.md)      |
+|  3  |     ["연속/비연속 메모리 할당"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Memory_Allocation.md)     |
+|  4  |                 ["TCP와 UDP"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/TCP_UDP.md)                 |
+|  5  | ["JVM 메모리 구조와 가비지 컬렉터"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/JVM_memory_and_GC.md) |
 
 <br />
 
