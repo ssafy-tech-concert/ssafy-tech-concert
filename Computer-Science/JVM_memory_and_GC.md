@@ -65,7 +65,7 @@ Garbage Collection(GC)은 메모리 관리 기법 중 하나로, 프로그램이
 
 ### JVM-based application’s working cycle
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a5459514-bd82-4e2a-8f5e-e103536123f0/Untitled.png)
+![Untitled](https://sematext.com/wp-content/uploads/2020/01/Application-Working-Cycle-1024x134.png.webp)
 
 - 메모리를 정리하기위해서, 쓰레드가 잠시 멈추는데, 이것을 stop-the-world events 라고 하거나 혹은 STW라고 부른다.
 - 가비지 컬렉터가 더이상 사용되어 지지 않는 객체들을 마크한 후, 재요청하면, 이 메모리는 resizing 한다.
@@ -92,24 +92,30 @@ Heap 영역은 처음 설계될 때, 2가지를 전제로 설계되었다.
     - bump-the-pointer
     - TLABs(Thread-Local Allocation Buffers)
 - **Old Generation**
+
   - **Tenured space**
   - 장기간 살아있는 객체가 저장되어진 곳.
   - 여기서 일어나는 GC를 **major GC**라고 부름
-  ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e9a97dd0-9cbb-49a1-869b-254fd06e95a0/Untitled.png)
-  생성된 객체는 Eden Space에 가장 먼저 저장이되고, 이후 Survivor Space 0 과 Survivor Space 1으로 차례대로 이동한다. 이 이후까지 살아있는 객체는 Tenured Space로 이동하게 되는데, 이곳이 old generation Space다.
-  ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e04fdefe-07a3-49ba-b188-22af5da1b4b0/Untitled.png)
-  ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e4d62dbc-7787-4e07-a5f0-a00cdde89023/Untitled.png)
-  ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6e725b0a-9adf-4b73-b5e0-56f7289cfcb1/Untitled.png)
-  ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a826f878-8706-46be-b7b5-3795d59248e6/Untitled.png)
-  ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/158177bc-5100-43e4-9c83-6c5141865427/Untitled.png)
-  > Java 8 이전에는 PermGen (Permanent Generation)이 존재하였음. 클래스나 메소드의 metadata를 저장하는 공간으로, old 영역에서 살아남은 객체가 저장되는 곳( Major GC가 일어남) 하지만, JAVA8 이후에는 Metaspace가 PermGen의 공간을 대체하게 되었다.
-  **Metadata Space**
-  자동으로 공간이 resized됨.
-  Metaspace메모리 공간을 컨트롤하기 위한 몇가지 flag들이 있음.
-  - **XX:MetaspaceSize** – initial size of the Metaspace memory region,
-  - **XX:MaxMetaspaceSize** – maximum size of the Metaspace memory region,
-  - **XX:MinMetaspaceFreeRatio** – minimum percentage of class metadata capacity that should be free after garbage collection,
-  - **XX:MaxMetaspaceFreeRatio** – maximum percentage of class metadata capacity that should be free after garbage collection.
+
+![Untitled](https://sematext.com/wp-content/uploads/2020/01/JVM-Heap-Space.png.webp)
+
+생성된 객체는 Eden Space에 가장 먼저 저장이되고, 이S후 urvivor Space 0 과 Survivor Space 1으로 차례대로 이동한다. 이 이후까지 살아있는 객체는 Tenured Space로 이동하게 되는데, 이곳이 old generation Space다.
+
+![Untitled](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/images/gcslides/Slide13.png)
+![Untitled](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/images/gcslides/Slide14.png)
+![Untitled](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/images/gcslides/Slide6.png)
+![Untitled](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/images/gcslides/Slide8.png)
+![Untitled](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/images/gcslides/Slide9.png)
+
+> Java 8 이전에는 PermGen (Permanent Generation)이 존재하였음. 클래스나 메소드의 metadata를 저장하는 공간으로, old 영역에서 살아남은 객체가 저장되는 곳( Major GC가 일어남) 하지만, JAVA8 이후에는 Metaspace가 PermGen의 공간을 대체하게 되었다.
+> **Metadata Space**
+> 자동으로 공간이 resized됨.
+> Metaspace메모리 공간을 컨트롤하기 위한 몇가지 flag들이 있음.
+
+- **XX:MetaspaceSize** – initial size of the Metaspace memory region,
+- **XX:MaxMetaspaceSize** – maximum size of the Metaspace memory region,
+- **XX:MinMetaspaceFreeRatio** – minimum percentage of class metadata capacity that should be free after garbage collection,
+- **XX:MaxMetaspaceFreeRatio** – maximum percentage of class metadata capacity that should be free after garbage collection.
 
 JDK7을 기준으로 5가지 방식이 있다.
 
