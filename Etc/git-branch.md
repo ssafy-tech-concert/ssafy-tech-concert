@@ -59,8 +59,6 @@
 
 ### **✅ 작업 과정 정리**
 
-**Spring Boot 왜 사용할까요?**
-
 1.  branch 만들기 전에 develop branch 최신화 하기!
     -   develop 브랜치에서
     -   git fetch origin develop
