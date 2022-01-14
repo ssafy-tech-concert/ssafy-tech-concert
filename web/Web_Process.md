@@ -26,7 +26,7 @@
 - 사용자가 웹 브라우저 주소창에 키 하나를 누른 순간 **자동완성** 기능이 활성화
 - 브라우저는 사용자의 **검색 및 방문 기록이나 즐겨찾기**에 기반하여 매 키를 누를 때마다 매번 선별된 제안 제공
 - URL을 모두 다 입력하기도 전에 `www.naver.com`을 먼저 제안 가능  
-  <img width="270" src="../images/web_process_naver.png" alt="web_process_naver" />
+  <img width="270" src="../images/web_process_naver_search.png" alt="web_process_naver_search" />
 
 <br />
 
@@ -35,7 +35,7 @@
 ## 2. 웹 브라우저가 입력된 URL(`www.naver.com`)이 문법에 맞는지 해석한다
 
 - **URL의 기본 구조**
-  <img src="../images/web_process_url.png" alt="web_process_url" />
+  <img src="../images/web_process_url_example.png" alt="web_process_url_example" />
   - 정규표현식으로 URL인지 확인 → _[정규표현식이란](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/REGEX.md)_
     ```
     [(http(s)?):\/\/(www\.)?a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)
@@ -87,7 +87,7 @@
 ## 4. 만약 입력한 도메인이 캐싱되지 않은 상태라면 ISP의 DNS 서버가 해당 도메인의 IP 주소를 찾기 위해 DNS Query(DNS 질의)를 보낸다
 
 <img src="../images/web_process_dns_recursive.gif" alt="web_process_dns_recursive" />
-<img width="400" src="../images/web_process_dns.png" alt="web_process_dns" />
+<img width="400" src="../images/web_process_dns_link.png" alt="web_process_dns_link" />
   
 - **`Root Domain`**
   - 모든 도메인의 뿌리
