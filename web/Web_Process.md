@@ -26,7 +26,7 @@
 - 사용자가 웹 브라우저 주소창에 키 하나를 누른 순간 **자동완성** 기능이 활성화
 - 브라우저는 사용자의 **검색 및 방문 기록이나 즐겨찾기**에 기반하여 매 키를 누를 때마다 매번 선별된 제안 제공
 - URL을 모두 다 입력하기도 전에 `www.naver.com`을 먼저 제안 가능  
-  <img width="250" src="../images/web_process_naver.png" alt="web_process_naver" />
+  <img width="270" src="../images/web_process_naver.png" alt="web_process_naver" />
 
 <br />
 
@@ -50,7 +50,7 @@
   - `HSTS` : 요청한 웹 서버가 HTTPS로 설계되어 있을 때, 웹 브라우저에게 **HTTPS로 요청하라고 알려주는 보안** 기능
     - HTTPS 프로토콜을 사용하는 사이트에 처음 방문하면 웹 브라우저의 HSTS 목록에 저장
     - 어떤 사이트들은 HSTS 목록에 이미 저장되어(preloaded) 있으며 https://hstspreload.org<span>에서 목록 확인 가능
-      <img width="250" src="../images/web_process_hsts.png" alt="web_process_hsts" />
+      <img width="340" src="../images/web_process_hsts.png" alt="web_process_hsts" />
 - **퓨니코드**(**Punycode**) 인코딩 : 유니코드 문자열을 호스트 이름에서 허용된 문자만으로 인코딩하는 방법
 
 #### 2. URL이 문법에 맞지 않다면 **브라우저의 기본 검색 엔진**(google, bing 등)으로 검색
@@ -68,7 +68,7 @@
   - Domain Name → IP Address : 컴퓨터의 주소를 찾기 위함
   - IP Address → Domain Name : 사람이 사용하기 쉽게 하기 위함
   - `IP Address` 확인하는 방법 : `nslookup`, `host`  
-    <img width="300" src="../images/web_process_naver_ip.png" alt="web_process_naver_ip" />
+    <img width="340" src="../images/web_process_naver_ip.png" alt="web_process_naver_ip" />
 
 1. 우선 웹 브라우저는 일정 기간 동안 DNS 기록을 저장하고 있기 때문에 **브라우저 캐시**에서 웹 사이트 이름의 IP 주소 찾기
 2. 다음으로 **OS 캐시** 확인. `systemcall`을 통해 OS가 저장하고 있는 DNS 기록들의 캐시에 접근하여 찾기
@@ -88,26 +88,29 @@
 
 <img src="../images/web_process_dns_recursive.gif" alt="web_process_dns_recursive" />
 <img width="400" src="../images/web_process_dns.png" alt="web_process_dns" />
+  
 - **`Root Domain`**
   - 모든 도메인의 뿌리
   - 사이트 주소 뒤에 생략된 `.` → `www.naver.com.`으로 주소창에 입력해도 `www.naver.com`과 동일한 결과
   - 도메인 네임을 IP 주소로 바꿀 때 **가장 먼저 확인**하는 단계
   - Root 도메인을 다루는 DNS Server는 Top-level Domain을 담당하는 DNS Server를 알고 있다
+  
 - **`Top-level Domain` (`TLD`) (최고레벨 도메인, 최상위 도메인)**
-    - 가장 일반적인 정보 제공
-    - 인터넷에서 도메인 네임의 가장 마지막 부분
-    - **도메인을 구분하는 가장 큰 카테고리**이며 도메인을 **성격에 따라서 분류**
-        - 일반 최상위 도메인: 국가별로 고유하지 않은 도메인 (.com, .org, .net, .edu, .gov)
-        - 국가 코드 최상위 도메인: 여기에는 국가 또는 주와 관련된 모든 도메인 (.uk, .us, .ru, .jp)
+  - 가장 일반적인 정보 제공
+  - 인터넷에서 도메인 네임의 가장 마지막 부분
+  - **도메인을 구분하는 가장 큰 카테고리**이며 도메인을 **성격에 따라서 분류**
+      - 일반 최상위 도메인: 국가별로 고유하지 않은 도메인 (.com, .org, .net, .edu, .gov)
+      - 국가 코드 최상위 도메인: 여기에는 국가 또는 주와 관련된 모든 도메인 (.uk, .us, .ru, .jp)
+  
 - **`Second-level Domain`**(SLD)
 - **`subdomain`**
 - 각각의 도메인은 DNS Server를 각각 가지고 있고 각각 전담하는 파트는 다르다
 - **상위 DNS Server는 직접 연결된 하위 DNS Server를 알고** 있지만 연결되지 않은 하위 DNS Server는 모른다
 - `Recursive Search`
-    - ISP가 제공하는 DNS 서버인 `DNS Recursor`에서 DNS 정보를 찾으려 다른 DNS 서버들로 DNS Query를 보낸다
-    - DNS 서버에서 다른 DNS 서버로 **반복적**으로 이동하면서 **IP 주소를 찾을 때까지 또는 못 찾아서 에러가 발생할 때까지** 검색 진행
-    - DNS Query와 DNS Recursor의 IP 주소가 포함된 패킷을 통해 전달 → 패킷이 유실되면 request fail error 발생
-    - IP 주소를 찾아내면 해당 IP 주소로 HTTP 요청 전송
+  - ISP가 제공하는 DNS 서버인 `DNS Recursor`에서 DNS 정보를 찾으려 다른 DNS 서버들로 DNS Query를 보낸다
+  - DNS 서버에서 다른 DNS 서버로 **반복적**으로 이동하면서 **IP 주소를 찾을 때까지 또는 못 찾아서 에러가 발생할 때까지** 검색 진행
+  - DNS Query와 DNS Recursor의 IP 주소가 포함된 패킷을 통해 전달 → 패킷이 유실되면 request fail error 발생
+  - IP 주소를 찾아내면 해당 IP 주소로 HTTP 요청 전송
   
 <br />
 
