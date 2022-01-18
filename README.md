@@ -237,16 +237,16 @@
 
 ### 2022년 01월
 
-| 날짜 (요일) | 발표자 |                                                                                  발표 제목                                                                                  |
-| :---------: | :----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 01.05. (수) | 이아영 |               ["JVM 메모리 구조와 가비지 컬렉터"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/JVM_memory_and_GC.md)               |
-| 01.10. (월) |   -    |                                                                       SSAFY 6기 카카오 취업자 멘토링                                                                        |
-| 01.12. (수) | 구련아 | ["웹 브라우저 주소창에 www.naver.com을 입력하고 엔터를 누르면 어떤 일이 일어날까"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Web_Process.md) |
-| 01.17. (월) |   -    |                                                                          컬리 백엔드 개발자 멘토링                                                                          |
-| 01.19. (수) | 민성재 |                                                                                    JPA란                                                                                    |
-| 01.24. (월) | 박정환 |                                                                                      -                                                                                      |
-| 01.26. (수) | 왕수련 |                                                                                   Redis란                                                                                   |
-| 01.31. (월) | 진형준 |                                                                                      -                                                                                      |
+| 날짜 (요일) | 발표자 |                                                                                  발표 제목                                                                                   |
+| :---------: | :----: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 01.05. (수) | 이아영 |               ["JVM 메모리 구조와 가비지 컬렉터"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/JVM_memory_and_GC.md)                |
+| 01.10. (월) |   -    |                                                                        SSAFY 6기 카카오 취업자 멘토링                                                                        |
+| 01.12. (수) | 구련아 | ["웹 브라우저 주소창에 www.naver.com을 입력하고 엔터를 누르면 어떤 일이 일어날까?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Web_Process.md) |
+| 01.17. (월) |   -    |                                                                          컬리 백엔드 개발자 멘토링                                                                           |
+| 01.19. (수) | 민성재 |                                                                                    JPA란                                                                                     |
+| 01.24. (월) | 박정환 |                                                                                      -                                                                                       |
+| 01.26. (수) | 왕수련 |                                                                                   Redis란                                                                                    |
+| 01.31. (월) | 진형준 |                                                                                      -                                                                                       |
 
 <!-- ### 2022년 00월
 
@@ -286,18 +286,18 @@
 
 ### 🌐 Web
 
-| No  |                                                                                     Web                                                                                     |
-| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  1  |                   ["HTTP가 무엇이고 왜 HTTPS를 사용하는 것인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/HTTP_HTTPS.md)                   |
-|  2  |                                ["REST ,REST API, RESTful"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/REST.md)                                |
-|  3  |                                  ["캐싱이란 무엇인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Cache.md)                                  |
-|  4  |               ["서버사이드 렌더링(SSR)과 클라이언트 사이드 렌더링(CSR)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/SSRCSR.md)                |
-|  5  |                           ["HTTP Header의 종류와 예시"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/HTTP_Headers.md)                           |
-|  6  |                               ["HTTP Keep Alive"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/http_keepalive.md)                               |
-|  7  |                           ["Web Socket과 WebRTC"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/WebSocket%26WebRTC.md)                           |
-|  8  |                                         ["CORS"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/CORS.md)                                          |
-|  9  |                                        ["Nginx"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Nginx.md)                                         |
-| 10  | ["웹 브라우저 주소창에 www.naver.com을 입력하고 엔터를 누르면 어떤 일이 일어날까"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Web_Process.md) |
+| No  |                                                                                     Web                                                                                      |
+| :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  1  |                   ["HTTP가 무엇이고 왜 HTTPS를 사용하는 것인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/HTTP_HTTPS.md)                    |
+|  2  |                                ["REST ,REST API, RESTful"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/REST.md)                                 |
+|  3  |                                  ["캐싱이란 무엇인가?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Cache.md)                                   |
+|  4  |                ["서버사이드 렌더링(SSR)과 클라이언트 사이드 렌더링(CSR)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/SSRCSR.md)                |
+|  5  |                           ["HTTP Header의 종류와 예시"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/HTTP_Headers.md)                            |
+|  6  |                               ["HTTP Keep Alive"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/http_keepalive.md)                                |
+|  7  |                           ["Web Socket과 WebRTC"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/WebSocket%26WebRTC.md)                            |
+|  8  |                                          ["CORS"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/CORS.md)                                          |
+|  9  |                                         ["Nginx"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Nginx.md)                                         |
+| 10  | ["웹 브라우저 주소창에 www.naver.com을 입력하고 엔터를 누르면 어떤 일이 일어날까?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Web_Process.md) |
 
 <br />
 
