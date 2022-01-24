@@ -1,4 +1,8 @@
-# HTML과 SEO
+<div align="center">
+  <br />
+  <h1>HTML과 SEO</h1>
+  <br />
+</div>
 
 ## 목차
 

@@ -1,13 +1,17 @@
-# REST? REST API? REST ful?
+<div align="center">
+  <br />
+  <h1>REST? REST API? REST ful?</h1>
+  <br />
+</div>
 
-## **목차**
-
+## 목차
 
 1. [**REST?**](#1)
 2. [**REST API**](#2)
 3. [**REST ful**](#3)
 
 <div id="1"></div>
+
 # 🌐REST
 
 ### **Representational State Transfer**
@@ -20,7 +24,7 @@
 
 ## ❗ 용어 정리
 
-### URI : **인터넷에 있는 자원을 나타내는 유일한 주소** *
+### URI : **인터넷에 있는 자원을 나타내는 유일한 주소** \*
 
 ### **HTTP(HyperText Transfer Protocol) : W3 상에서 정보를 주고받을 수 있는 프로토콜이다.**
 
@@ -75,14 +79,16 @@
 
 ### 자기 서술적 메시지 : REST API에서는 데이터에 대한 내용을 유추하는 것이 아닌 이 데이터를설 명하는 명세서가 존재
 
-### 
+###
 
 ### 로드밸런싱: 서버의 부하를 분산하기 위해 N개의 서버에 트래픽을 분배하는
+
 <img src="../images/로드 밸런싱.jpg">
 
 ### 것이다.
 
 <div id="2"></div>
+
 # REST API
 
 REST 기반으로 서비스 API를 구현한 것
@@ -95,7 +101,7 @@ REST 기반으로 서비스 API를 구현한 것
 
 - REST는 HTTP 표준을 기반으로 구현하므로, HTTP를 지원하는 프로그램
 
-    언어로 클라이언트, 서버를 구현할 수 있다.
+  언어로 클라이언트, 서버를 구현할 수 있다.
 
 REST API 설계 예시
 
@@ -118,6 +124,7 @@ REST API 설계 예시
 - PATCH : 서버의 리소스의 부분만을 수정할 때
 
 <div id="3"></div>
+
 ## RESTful 이란?
 
 RESTful은 일반적으로 REST라는 아키텍처를 구현하는 웹 서비스를 나타내기 위해
@@ -142,6 +149,6 @@ Ex1) CRUD 기능을 모두 **POST**로만 처리하는 API
 
 Ex2) route에resource, **id외의 정보**가 들어가는 경우(/students/updateName)
 
-추가 자료 링크 
+추가 자료 링크
 
 [REST API 제대로 알고 사용하기 : NHN Cloud Meetup](https://meetup.toast.com/posts/92)
