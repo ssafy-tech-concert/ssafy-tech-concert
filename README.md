@@ -245,7 +245,7 @@
 | 01.17. (월) |   -    |                                                                          컬리 백엔드 개발자 멘토링                                                                           |
 | 01.19. (수) | 민성재 |                                         ["JPA란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/JPA.md)                                                                                    |
 | 01.24. (월) | 박정환 |                                       ["HTML과 SEO"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/SEO.md)                                        |
-| 01.26. (수) | 왕수련 |                                                                                  "Redis란"                                                                                   |
+| 01.26. (수) | 왕수련 |                          ["Redis란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Redis.md)                                                                                   |
 | 01.31. (월) | 진형준 |                                                                                      -                                                                                       |
 
 <!-- ### 2022년 00월
@@ -328,6 +328,7 @@
 |  2  | ["Servlet&jsp&WAS"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Servlet%20%26%20JSP.md)  |
 |  3  |             ["index"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/index.md)              |
 |  4  | ["JPA란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/JPA.md)                            |
+|  5  | ["Redis란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Redis.md)                        |
 
 <br />
 
