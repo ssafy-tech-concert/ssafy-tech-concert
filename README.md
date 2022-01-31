@@ -243,10 +243,19 @@
 | 01.10. (월) |   -    |                                                                        SSAFY 6기 카카오 취업자 멘토링                                                                        |
 | 01.12. (수) | 구련아 | ["웹 브라우저 주소창에 www.naver.com을 입력하고 엔터를 누르면 어떤 일이 일어날까?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Web_Process.md) |
 | 01.17. (월) |   -    |                                                                          컬리 백엔드 개발자 멘토링                                                                           |
-| 01.19. (수) | 민성재 |                                         ["JPA란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/JPA.md)                                                                                    |
+| 01.19. (수) | 민성재 |                                       ["JPA란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/JPA.md)                                        |
 | 01.24. (월) | 박정환 |                                       ["HTML과 SEO"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/SEO.md)                                        |
-| 01.26. (수) | 왕수련 |                          ["Redis란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Redis.md)                                                                                   |
-| 01.31. (월) | 진형준 |                                                                                      -                                                                                       |
+| 01.26. (수) | 왕수련 |                                     ["Redis란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Redis.md)                                      |
+
+### 2022년 02월
+
+| 날짜 (요일) | 발표자 | 발표 제목 |
+| :---------: | :----: | :-------: |
+| 02.07. (월) | 진형준 |     -     |
+| 02.09. (수) | 최지우 |     -     |
+| 02.21. (월) | 김다인 |     -     |
+| 02.23. (수) | 이아영 |     -     |
+| 02.28. (월) | 구련아 |     -     |
 
 <!-- ### 2022년 00월
 
@@ -327,8 +336,8 @@
 |  1  | ["Spring, Spring Boot"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/sping-springboot.md) |
 |  2  | ["Servlet&jsp&WAS"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Servlet%20%26%20JSP.md)  |
 |  3  |             ["index"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/index.md)              |
-|  4  | ["JPA란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/JPA.md)                            |
-|  5  | ["Redis란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Redis.md)                        |
+|  4  |              ["JPA란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/JPA.md)               |
+|  5  |            ["Redis란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Redis.md)             |
 
 <br />
 
