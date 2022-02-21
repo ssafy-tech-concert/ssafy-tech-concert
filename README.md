@@ -251,7 +251,7 @@
 
 | 날짜 (요일) | 발표자 | 발표 제목 |
 | :---------: | :----: | :-------: |
-| 02.07. (월) | 진형준 |     ["REST GUIDE"]()     |
+| 02.07. (월) | 진형준 |     ["REST GUIDE"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/REST_GUIDE.md)     |
 | 02.09. (수) | 최지우 |     -     |
 | 02.21. (월) | 김다인 |     -     |
 | 02.23. (수) | 이아영 |     -     |
