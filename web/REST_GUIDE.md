@@ -159,4 +159,6 @@ Good
 
 > [REST? REST API? REST ful?](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/REST.md) 
 
+> [블로그](https://codingjhj.tistory.com/27)
+
 > 새 창 열기 방법 : CTRL+click (on Windows and Linux) | CMD+click (on MacOS)
