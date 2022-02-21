@@ -251,7 +251,7 @@
 
 | 날짜 (요일) | 발표자 | 발표 제목 |
 | :---------: | :----: | :-------: |
-| 02.07. (월) | 진형준 |     -     |
+| 02.07. (월) | 진형준 |     ["REST GUIDE"]()     |
 | 02.09. (수) | 최지우 |     -     |
 | 02.21. (월) | 김다인 |     -     |
 | 02.23. (수) | 이아영 |     -     |
@@ -308,6 +308,7 @@
 |  9  |                                         ["Nginx"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Nginx.md)                                         |
 | 10  | ["웹 브라우저 주소창에 www.naver.com을 입력하고 엔터를 누르면 어떤 일이 일어날까?"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Web_Process.md) |
 | 11  |                                       ["HTML과 SEO"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/SEO.md)                                        |
+| 12 |                                       ["REST GUIDE"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/REST_GUIDE.md)                                        |
 
 <br />
 
