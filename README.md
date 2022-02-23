@@ -249,13 +249,13 @@
 
 ### 2022년 02월
 
-| 날짜 (요일) | 발표자 |                                               발표 제목                                                |
-| :---------: | :----: | :----------------------------------------------------------------------------------------------------: |
-| 02.07. (월) | 진형준 | ["REST GUIDE"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/REST_GUIDE.md) |
-| 02.09. (수) | 최지우 |                                                   -                                                    |
-| 02.21. (월) | 김다인 |                                                   -                                                    |
-| 02.23. (수) | 이아영 |                     ["Java Stream의 소개"](https://github.com/ssafy-tech-concert)                      |
-| 02.28. (월) | 구련아 |                                               "Next.js"                                                |
+| 날짜 (요일) | 발표자 |                                                        발표 제목                                                        |
+| :---------: | :----: | :---------------------------------------------------------------------------------------------------------------------: |
+| 02.07. (월) | 진형준 |         ["REST GUIDE"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/REST_GUIDE.md)          |
+| 02.09. (수) | 최지우 |                                                            -                                                            |
+| 02.21. (월) | 김다인 |                                                            -                                                            |
+| 02.23. (수) | 이아영 | ["Java Stream의 소개"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Stream.md) |
+| 02.28. (월) | 구련아 |                                                        "Next.js"                                                        |
 
 <!-- ### 2022년 00월
 
@@ -288,6 +288,7 @@
 |  3  |     ["연속/비연속 메모리 할당"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Memory_Allocation.md)     |
 |  4  |                 ["TCP와 UDP"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/TCP_UDP.md)                 |
 |  5  | ["JVM 메모리 구조와 가비지 컬렉터"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/JVM_memory_and_GC.md) |
+|  6  |             ["Java Stream의 소개"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Stream.md)             |
 
 <br />
 
