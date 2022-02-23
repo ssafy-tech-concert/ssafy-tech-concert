@@ -8,7 +8,7 @@
 
 </div>
 
-**## 목차**
+## 목차
 
 1. [**기존 방식의 문제점들**](#1)
 
@@ -22,7 +22,7 @@
 
 <div id="1"></div>
 
-**## 기존 방식의 문제점들**
+## 기존 방식의 문제점들
 
 1. 재사용성이 떨어지고 코드가 길어짐(for 문, Iterator)
 2. 데이터 소스마다 다른 방식으로 다뤄야함 (ex, Collections.sort(),Arrays.sort()..)
@@ -35,7 +35,7 @@
 
 <div id="2"></div>
 
-**## 스트림의 특징**
+## 스트림의 특징
 
 1. **스트림은 데이터 소스를 변경하지 않는다.**
 
@@ -82,7 +82,7 @@
 
 <div id="3"></div>
 
-**## 스트림의 연산**
+## 스트림의 연산
 
 <aside>
 💡 최종연산이 수행되기 전까지 중간 연산이 수행되지 않는다.
@@ -133,6 +133,8 @@
     U redduce (U identity, BiFunction<U,T,U> accumulator, BinaryOperator<U> combiner | 요소를 하나씩 줄여가면서 계산 |
     | R collect(Collector<T,A,R> colloector)
     R Collector (supplier<T> supplier,BiConsumer<R,T> accumulator, BiConsumer<R,R> combiner | 스트림 요소를 수집, 그 요소를 그룹화하거나 분할한 결과를 컬렉션에 담아 반환하는데 사용함 |
+
+<div id="4"></div>
 
 ## Stream<T>와 IntStream,LongStream,DoubleStream
 
