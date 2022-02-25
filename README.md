@@ -252,7 +252,7 @@
 | 날짜 (요일) | 발표자 |                                                        발표 제목                                                        |
 | :---------: | :----: | :---------------------------------------------------------------------------------------------------------------------: |
 | 02.07. (월) | 진형준 |         ["REST GUIDE"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/REST_GUIDE.md)          |
-| 02.09. (수) | 최지우 |                                                            -                                                            |
+| 02.09. (수) | 최지우 |         ["Design Pattern"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Design_Pattern.md)  |
 | 02.21. (월) | 김다인 |                                                            -                                                            |
 | 02.23. (수) | 이아영 | ["Java Stream의 소개"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Stream.md) |
 | 02.28. (월) | 구련아 |                                                        "Next.js"                                                        |
@@ -393,3 +393,4 @@
 |  5  |              ["git 브렌치 전략"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/git-branch.md)              |
 |  6  |    ["Digital Transformation"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Digital_Transformation.md)     |
 |  7  |                   ["FinTech"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/FinTech.md)                    |
+|  8  | ["Design Pattern"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Design_Pattern.md)                        |
