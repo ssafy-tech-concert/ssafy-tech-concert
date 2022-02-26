@@ -253,7 +253,7 @@
 | :---------: | :----: | :---------------------------------------------------------------------------------------------------------------------: |
 | 02.07. (월) | 진형준 |         ["REST GUIDE"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/REST_GUIDE.md)          |
 | 02.09. (수) | 최지우 |         ["Design Pattern"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Design_Pattern.md)  |
-| 02.21. (월) | 김다인 |                                                            -                                                            |
+| 02.21. (월) | 김다인 |  ["Load Balancing"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Load%20Balancing.md)  |
 | 02.23. (수) | 이아영 | ["Java Stream의 소개"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Stream.md) |
 | 02.28. (월) | 구련아 |                                                        "Next.js"                                                        |
 
@@ -354,6 +354,7 @@
 |  3  |             ["index"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/index.md)              |
 |  4  |              ["JPA란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/JPA.md)               |
 |  5  |            ["Redis란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Redis.md)             |
+|  6  |   ["Load Balancing"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Load%20Balancing.md)    |
 
 <br />
 
