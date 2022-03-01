@@ -249,20 +249,20 @@
 
 ### 2022년 02월
 
-| 날짜 (요일) | 발표자 |                                                        발표 제목                                                        |
-| :---------: | :----: | :---------------------------------------------------------------------------------------------------------------------: |
-| 02.07. (월) | 진형준 |         ["REST GUIDE"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/REST_GUIDE.md)          |
-| 02.09. (수) | 최지우 |         ["Design Pattern"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Design_Pattern.md)  |
-| 02.21. (월) | 김다인 |  ["Load Balancing"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Load%20Balancing.md)  |
-| 02.23. (수) | 이아영 | ["Java Stream의 소개"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Stream.md) |
-| 02.28. (월) | 구련아 |                                                        "Next.js"                                                        |
+| 날짜 (요일) | 발표자 |                                                              발표 제목                                                               |
+| :---------: | :----: | :----------------------------------------------------------------------------------------------------------------------------------: |
+| 02.07. (월) | 진형준 |                ["REST GUIDE"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/REST_GUIDE.md)                |
+| 02.09. (수) | 최지우 |            ["Design Pattern"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Design_Pattern.md)            |
+| 02.21. (월) | 김다인 |        ["Load Balancing"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Load%20Balancing.md)         |
+| 02.23. (수) | 이아영 |       ["Java Stream의 소개"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Stream.md)        |
+| 02.28. (월) | 구련아 | ["프론트엔드의 테스트 종류와 예시"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Frontend_Test.md) |
 
 ### 2022년 03월
 
 | 날짜 (요일) | 발표자 |                발표 제목                 |
 | :---------: | :----: | :--------------------------------------: |
 | 03.02. (수) |   -    | SSAFY 6기 KB 데이타 시스템 취업자 멘토링 |
-| 03.07. (월) | 민성재 |                  JDBC란                     |
+| 03.07. (월) | 민성재 |                  JDBC란                  |
 | 03.09. (수) | 박정환 |                    -                     |
 | 03.14. (월) | 왕수련 |                    -                     |
 | 03.16. (수) | 진형준 |                    -                     |
@@ -340,6 +340,7 @@
 |  5  |                          ["GraphQL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/GraphQL.md)                           |
 |  6  |                              ["BEM"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/BEM.md)                               |
 |  7  | ["동기, 비동기 & 자바스크립트의 실행 모델"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/synchronous%26asynchronous.md) |
+|  8  |           ["프론트엔드의 테스트 종류와 예시"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Frontend_Test.md)            |
 
 <br />
 
@@ -394,4 +395,4 @@
 |  5  |              ["git 브렌치 전략"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/git-branch.md)              |
 |  6  |    ["Digital Transformation"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Digital_Transformation.md)     |
 |  7  |                   ["FinTech"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/FinTech.md)                    |
-|  8  | ["Design Pattern"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Design_Pattern.md)                        |
+|  8  |            ["Design Pattern"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Design_Pattern.md)             |
