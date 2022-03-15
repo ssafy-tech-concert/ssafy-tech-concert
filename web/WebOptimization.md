@@ -45,8 +45,9 @@ Pinterest는 긴 로딩 시간으로 인해 사용자가 페이지를 이탈하�
 
 1. JavaScript : JS로 DOM을 변경
 2. Style recalculate : DOM의 최종 스타일을 계산
-3. Paint : 화면에 그리기
-4. Composite: 레이어 조합하기
+3. Layout: DOM의 배치와 크기 계산
+4. Paint : 화면에 그리기
+5. Composite: 레이어 조합하기
 
 <br />
 
