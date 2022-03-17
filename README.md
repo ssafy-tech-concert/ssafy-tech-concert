@@ -3,7 +3,7 @@
   <img src="./images/ssafy_main_logo.png" alt="SSAFY" /> 
   <br />
   <br />
-  <img src="./images/ssafy-tech-concert_logo.png" alt="SSAFY" width="650px" />
+  <img src="./images/ssafy-tech-concert_logo.png" alt="SSAFY TECH CONCERT" width="650px" />
   <br />
   <br />
 </div>
@@ -262,9 +262,9 @@
 | 날짜 (요일) | 발표자 |                                                    발표 제목                                                    |
 | :---------: | :----: | :-------------------------------------------------------------------------------------------------------------: |
 | 03.02. (수) |   -    |                                    SSAFY 6기 KB 데이타 시스템 취업자 멘토링                                     |
-| 03.07. (월) | 민성재 |                              ["JDBC란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/JDBC.md)        |
+| 03.07. (월) | 민성재 |        ["JDBC란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/JDBC.md)        |
 | 03.14. (월) | 박정환 | ["웹 성능 최적화"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/WebOptimization.md) |
-| 03.16. (수) | 왕수련 |                                    "단위 테스트 - Junit, Mockito"                                                        |
+| 03.16. (수) | 왕수련 |                                         "단위 테스트 - Junit, Mockito"                                          |
 | 03.21. (월) | 진형준 |                                                        -                                                        |
 | 03.23. (수) | 최지우 |                                                        -                                                        |
 | 03.28. (월) | 김다인 |                                                        -                                                        |
@@ -367,7 +367,7 @@
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------------: |
 |  1  | ["트랜잭션과 Isolation Level"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/Transaction-Isolation-level.md) |
 |  2  |                  ["SQL NOSQL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/tree/master/Database/SQL_NOSQL.md)                   |
-|  3  |  ["JDBC란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/JDBC.md)                                             |
+|  3  |                      ["JDBC란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/JDBC.md)                       |
 
 <br />
 
