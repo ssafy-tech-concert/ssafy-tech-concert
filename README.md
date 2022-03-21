@@ -259,16 +259,15 @@
 
 ### 2022년 03월
 
-| 날짜 (요일) | 발표자 |                                                    발표 제목                                                    |
-| :---------: | :----: | :-------------------------------------------------------------------------------------------------------------: |
-| 03.02. (수) |   -    |                                    SSAFY 6기 KB 데이타 시스템 취업자 멘토링                                     |
-| 03.07. (월) | 민성재 |        ["JDBC란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/JDBC.md)        |
-| 03.14. (월) | 박정환 | ["웹 성능 최적화"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/WebOptimization.md) |
-| 03.16. (수) | 왕수련 | ["단위 테스트 - Junit, Mockito"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Unit%20Test%20-%20JUnit%2C%20Mockito.md)  |
-| 03.21. (월) | 진형준 |                                                        -                                                        |
-| 03.23. (수) | 최지우 |                                                        -                                                        |
-| 03.28. (월) | 김다인 |                                                        -                                                        |
-| 03.30. (수) | 이아영 |                                                        -                                                        |
+| 날짜 (요일) | 발표자 |                                                                        발표 제목                                                                        |
+| :---------: | :----: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 03.02. (수) |   -    |                                                        SSAFY 6기 KB 데이타 시스템 취업자 멘토링                                                         |
+| 03.07. (월) | 민성재 |                            ["JDBC란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/JDBC.md)                            |
+| 03.14. (월) | 박정환 |                     ["웹 성능 최적화"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/WebOptimization.md)                     |
+| 03.16. (수) | 왕수련 | ["단위 테스트 - Junit, Mockito"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Unit%20Test%20-%20JUnit%2C%20Mockito.md) |
+| 03.23. (수) | 진형준 |                                                                            -                                                                            |
+| 03.28. (월) | 최지우 |                                                                            -                                                                            |
+| 03.30. (수) | 김다인 |                                                                            -                                                                            |
 
 <!-- ### 2022년 00월
 
@@ -348,15 +347,16 @@
 
 ### 📡 Back-end
 
-| No  |                                                          Back-end                                                          |
-| :-: | :------------------------------------------------------------------------------------------------------------------------: |
-|  1  | ["Spring, Spring Boot"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/sping-springboot.md) |
-|  2  | ["Servlet&jsp&WAS"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Servlet%20%26%20JSP.md)  |
-|  3  |             ["index"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/index.md)              |
-|  4  |              ["JPA란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/JPA.md)               |
-|  5  |            ["Redis란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Redis.md)             |
-|  6  |   ["Load Balancing"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Load%20Balancing.md)    |
-|  7  | ["단위 테스트 - Junit, Mockito"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Unit%20Test%20-%20JUnit%2C%20Mockito.md)  |
+| No  |                                                                        Back-end                                                                         |
+| :-: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  1  |               ["Spring, Spring Boot"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/sping-springboot.md)                |
+|  2  |                ["Servlet&jsp&WAS"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Servlet%20%26%20JSP.md)                |
+|  3  |                            ["index"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/index.md)                            |
+|  4  |                             ["JPA란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/JPA.md)                             |
+|  5  |                           ["Redis란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Redis.md)                           |
+|  6  |                  ["Load Balancing"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Load%20Balancing.md)                  |
+|  7  | ["단위 테스트 - Junit, Mockito"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Unit%20Test%20-%20JUnit%2C%20Mockito.md) |
+
 <br />
 
 <div id="database"></div>
