@@ -265,7 +265,7 @@
 | 03.07. (월) | 민성재 |                            ["JDBC란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/JDBC.md)                            |
 | 03.14. (월) | 박정환 |                     ["웹 성능 최적화"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/WebOptimization.md)                     |
 | 03.16. (수) | 왕수련 | ["단위 테스트 - Junit, Mockito"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Unit%20Test%20-%20JUnit%2C%20Mockito.md) |
-| 03.23. (수) | 진형준 |                                                                            -                                                                            |
+| 03.23. (수) | 진형준 |                                                                           ["Spring Boot + Redis 적용"]                                                                          |
 | 03.28. (월) | 최지우 |                                                                            -                                                                            |
 | 03.30. (수) | 김다인 |                                                                            -                                                                            |
 
