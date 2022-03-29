@@ -25,6 +25,9 @@
 
 ### 단위(Unit) 테스트
 
+> - 단위 테스트와 TDD에 대한 더 자세한 설명은 [이곳](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/TDD%26Unit_Test.md#Unit-test)을 참고
+> - 단위 테스트와 통합 테스트, JUnit과 Mockito의 예시는 [이곳](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Unit%20Test%20-%20JUnit%2C%20Mockito.md#1)을 참고
+
 - 모듈(함수/클래스) 단위의 테스트
 - 작성 비용이 적게 들고 실행 속도가 빠르다
 - Mocking 필요
