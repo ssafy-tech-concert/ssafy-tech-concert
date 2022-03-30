@@ -86,7 +86,7 @@ redis:
 
 RedisConfig.Java
 
-```
+```java
 @EnableRedisRepositories
 @Configuration
 @RequiredArgsConstructor
