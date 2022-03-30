@@ -265,9 +265,22 @@
 | 03.07. (월) | 민성재 |                            ["JDBC란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/JDBC.md)                            |
 | 03.14. (월) | 박정환 |                     ["웹 성능 최적화"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/WebOptimization.md)                     |
 | 03.16. (수) | 왕수련 | ["단위 테스트 - Junit, Mockito"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Unit%20Test%20-%20JUnit%2C%20Mockito.md) |
-| 03.23. (수) | 진형준 |                                                                           ["Spring Boot + Redis 적용"]                                                                          |
+| 03.23. (수) | 진형준 |                                                              ["Spring Boot + Redis 적용"]                                                               |
 | 03.28. (월) | 최지우 |                                                                            -                                                                            |
 | 03.30. (수) | 김다인 |                                                                            -                                                                            |
+
+### 2022년 04월
+
+| 날짜 (요일) | 발표자 | 발표 제목 |
+| :---------: | :----: | :-------: |
+| 04.04. (월) | 이아영 |     -     |
+| 04.06. (수) | 구련아 |     -     |
+| 04.11. (월) | 민성재 |     -     |
+| 04.13. (수) | 박정환 |     -     |
+| 04.18. (월) | 왕수련 |     -     |
+| 04.20. (수) | 진형준 |     -     |
+| 04.25. (월) | 최지우 |     -     |
+| 04.27. (수) | 김다인 |     -     |
 
 <!-- ### 2022년 00월
 
