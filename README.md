@@ -259,28 +259,28 @@
 
 ### 2022년 03월
 
-| 날짜 (요일) | 발표자 |                                                                        발표 제목                                                                        |
-| :---------: | :----: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 03.02. (수) |   -    |                                                        SSAFY 6기 KB 데이타 시스템 취업자 멘토링                                                         |
-| 03.07. (월) | 민성재 |                            ["JDBC란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/JDBC.md)                            |
-| 03.14. (월) | 박정환 |                     ["웹 성능 최적화"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/WebOptimization.md)                     |
-| 03.16. (수) | 왕수련 | ["단위 테스트 - Junit, Mockito"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Unit%20Test%20-%20JUnit%2C%20Mockito.md) |
-| 03.23. (수) | 진형준 |          ["Spring Boot + Redis 적용"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/SpringBoot%26Redis.md)                                                           |
-| 03.28. (월) | 최지우 |           ["함수형 프로그래밍이란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Functional%20Programming.md)                                                                -                                                                            |
+| 날짜 (요일) | 발표자 |                                                                                                                               발표 제목                                                                                                                               |
+| :---------: | :----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 03.02. (수) |   -    |                                                                                                               SSAFY 6기 KB 데이타 시스템 취업자 멘토링                                                                                                                |
+| 03.07. (월) | 민성재 |                                                                                   ["JDBC란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/JDBC.md)                                                                                   |
+| 03.14. (월) | 박정환 |                                                                            ["웹 성능 최적화"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/WebOptimization.md)                                                                            |
+| 03.16. (수) | 왕수련 |                                                        ["단위 테스트 - Junit, Mockito"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Unit%20Test%20-%20JUnit%2C%20Mockito.md)                                                        |
+| 03.23. (수) | 진형준 |                                                                   ["Spring Boot + Redis 적용"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/SpringBoot%26Redis.md)                                                                   |
+| 03.28. (월) | 최지우 |                                                                   ["함수형 프로그래밍이란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Functional%20Programming.md) -                                                                   |
 | 03.30. (수) | 김다인 | ["인덱스는 왜 대부분 B-Tree를 선택했을까"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/%EC%9D%B8%EB%8D%B1%EC%8A%A4%EB%8A%94_%EC%99%9C_%EB%8C%80%EB%B6%80%EB%B6%84_B-Tree%EB%A5%BC_%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84%EA%B9%8C.md) |
 
 ### 2022년 04월
 
-| 날짜 (요일) | 발표자 | 발표 제목 |
-| :---------: | :----: | :-------: |
-| 04.04. (월) | 이아영 |     -     |
-| 04.06. (수) | 구련아 |     -     |
-| 04.11. (월) | 민성재 |     -     |
-| 04.13. (수) | 박정환 |     -     |
-| 04.18. (월) | 왕수련 |     -     |
-| 04.20. (수) | 진형준 |     -     |
-| 04.25. (월) | 최지우 |     -     |
-| 04.27. (수) | 김다인 |     -     |
+| 날짜 (요일) | 발표자 |              발표 제목              |
+| :---------: | :----: | :---------------------------------: |
+| 04.04. (월) | 이아영 |                  -                  |
+| 04.06. (수) | 구련아 | "자바스크립트로 클린 코드 작성하기" |
+| 04.11. (월) | 민성재 |                  -                  |
+| 04.13. (수) | 박정환 |                  -                  |
+| 04.18. (월) | 왕수련 |                  -                  |
+| 04.20. (수) | 진형준 |                  -                  |
+| 04.25. (월) | 최지우 |                  -                  |
+| 04.27. (수) | 김다인 |                  -                  |
 
 <!-- ### 2022년 00월
 
@@ -369,7 +369,7 @@
 |  5  |                           ["Redis란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Redis.md)                           |
 |  6  |                  ["Load Balancing"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Load%20Balancing.md)                  |
 |  7  | ["단위 테스트 - Junit, Mockito"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Unit%20Test%20-%20JUnit%2C%20Mockito.md) |
-|  8  |   ["Spring Boot + Redis 적용"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/SpringBoot%26Redis.md)  |
+|  8  |            ["Spring Boot + Redis 적용"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/SpringBoot%26Redis.md)            |
 
 <br />
 
@@ -377,12 +377,12 @@
 
 ### 💾 Database
 
-| No  |                                                                   Database                                                                   |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------------: |
-|  1  | ["트랜잭션과 Isolation Level"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/Transaction-Isolation-level.md) |
-|  2  |                  ["SQL NOSQL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/tree/master/Database/SQL_NOSQL.md)                   |
-|  3  |                      ["JDBC란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/JDBC.md)                       |
-|  4  |["인덱스는 왜 대부분 B-Tree를 선택했을까"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/%EC%9D%B8%EB%8D%B1%EC%8A%A4%EB%8A%94_%EC%99%9C_%EB%8C%80%EB%B6%80%EB%B6%84_B-Tree%EB%A5%BC_%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84%EA%B9%8C.md)|
+| No  |                                                                                                                               Database                                                                                                                                |
+| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  1  |                                                             ["트랜잭션과 Isolation Level"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/Transaction-Isolation-level.md)                                                              |
+|  2  |                                                                               ["SQL NOSQL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/tree/master/Database/SQL_NOSQL.md)                                                                               |
+|  3  |                                                                                   ["JDBC란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/JDBC.md)                                                                                   |
+|  4  | ["인덱스는 왜 대부분 B-Tree를 선택했을까"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/%EC%9D%B8%EB%8D%B1%EC%8A%A4%EB%8A%94_%EC%99%9C_%EB%8C%80%EB%B6%80%EB%B6%84_B-Tree%EB%A5%BC_%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84%EA%B9%8C.md) |
 
 <br />
 
