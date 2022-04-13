@@ -276,7 +276,7 @@
 | 04.04. (월) | 이아영 |                                                                    -                                                                    |
 | 04.06. (수) | 구련아 | ["프론트엔드에서 클린 코드 짜기"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Frontend_CleanCode.md) |
 | 04.11. (월) | 민성재 |                                                                    -                                                                    |
-| 04.13. (수) | 박정환 |                                                              "npm VS yarn"                                                              |
+| 04.13. (수) | 박정환 |              ["npm VS yarn"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/npm%26yarn.md)              |
 | 04.18. (월) | 왕수련 |                                                                    -                                                                    |
 | 04.20. (수) | 진형준 |                                                                    -                                                                    |
 | 04.25. (월) | 최지우 |                                                                    -                                                                    |
@@ -354,6 +354,7 @@
 |  7  | ["동기, 비동기 & 자바스크립트의 실행 모델"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/synchronous%26asynchronous.md) |
 |  8  |           ["프론트엔드의 테스트 종류와 예시"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Frontend_Test.md)            |
 |  9  |          ["프론트엔드에서 클린 코드 짜기"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Frontend_CleanCode.md)          |
+| 10  |                       ["npm VS yarn"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/npm%26yarn.md)                       |
 
 <br />
 
