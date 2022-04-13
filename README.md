@@ -273,7 +273,7 @@
 
 | 날짜 (요일) | 발표자 |                                                                발표 제목                                                                |
 | :---------: | :----: | :-------------------------------------------------------------------------------------------------------------------------------------: |
-| 04.04. (월) | 이아영 |                                                                    -                                                                    |
+| 04.04. (월) | 이아영 |         ["쓰레드와 프로세스"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Thread.md)          |
 | 04.06. (수) | 구련아 | ["프론트엔드에서 클린 코드 짜기"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Frontend_CleanCode.md) |
 | 04.11. (월) | 민성재 |                                                                    -                                                                    |
 | 04.13. (수) | 박정환 |              ["npm VS yarn"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/npm%26yarn.md)              |
@@ -314,6 +314,7 @@
 |  4  |                 ["TCP와 UDP"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/TCP_UDP.md)                 |
 |  5  | ["JVM 메모리 구조와 가비지 컬렉터"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/JVM_memory_and_GC.md) |
 |  6  |             ["Java Stream의 소개"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Stream.md)             |
+|  7  |             ["쓰레드와 프로세스"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Thread.md)              |
 
 <br />
 
