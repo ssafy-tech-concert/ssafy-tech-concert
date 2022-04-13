@@ -275,7 +275,7 @@
 | :---------: | :----: | :-------------------------------------------------------------------------------------------------------------------------------------: |
 | 04.04. (월) | 이아영 |         ["쓰레드와 프로세스"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Thread.md)          |
 | 04.06. (수) | 구련아 | ["프론트엔드에서 클린 코드 짜기"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Frontend_CleanCode.md) |
-| 04.11. (월) | 민성재 |                                                                    -                                                                    |
+| 04.11. (월) | 민성재 |  ["CORS에러와 해결책"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/CORS%EC%97%90%EB%9F%AC%EC%99%80%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)                                                                                                                                      |
 | 04.13. (수) | 박정환 |              ["npm VS yarn"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/npm%26yarn.md)              |
 | 04.18. (월) | 왕수련 |                                                                    -                                                                    |
 | 04.20. (수) | 진형준 |                                                                    -                                                                    |
@@ -337,6 +337,7 @@
 | 11  |                                       ["HTML과 SEO"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/SEO.md)                                        |
 | 12  |                                    ["REST GUIDE"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/REST_GUIDE.md)                                    |
 | 13  |                               ["웹 성능 최적화"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/WebOptimization.md)                                |
+| 14  |  ["CORS에러와 해결법"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/CORS%EC%97%90%EB%9F%AC%EC%99%80%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
 
 <br />
 
