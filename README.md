@@ -278,7 +278,7 @@
 | 04.11. (월) | 민성재 |  ["CORS에러와 해결책"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/CORS%EC%97%90%EB%9F%AC%EC%99%80%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)                                                                                                                                      |
 | 04.13. (수) | 박정환 |              ["npm VS yarn"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/npm%26yarn.md)              |
 | 04.18. (월) | 진형준 |                                                                    -                                                                    |
-| 04.20. (수) | 왕수련 |                                                                    -                                                                    |
+| 04.20. (수) | 왕수련 |  ["Login과 OAuth"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Login_OAuth.md)                              |
 | 04.25. (월) | 최지우 |                                                                    -                                                                    |
 | 04.27. (수) | 김다인 |                                                                    -                                                                    |
 
@@ -337,7 +337,8 @@
 | 11  |                                       ["HTML과 SEO"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/SEO.md)                                        |
 | 12  |                                    ["REST GUIDE"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/REST_GUIDE.md)                                    |
 | 13  |                               ["웹 성능 최적화"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/WebOptimization.md)                                |
-| 14  |  ["CORS에러와 해결법"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/CORS%EC%97%90%EB%9F%AC%EC%99%80%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
+| 14  |  ["CORS에러와 해결법"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/CORS%EC%97%90%EB%9F%AC%EC%99%80%20%ED%95%B4%EA%B2%B0%EB%B2%95.md) |
+| 15 |   ["Login과 OAuth"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Login_OAuth.md)    |
 
 <br />
 
