@@ -271,16 +271,29 @@
 
 ### 2022년 04월
 
-| 날짜 (요일) | 발표자 |                                                                발표 제목                                                                |
-| :---------: | :----: | :-------------------------------------------------------------------------------------------------------------------------------------: |
-| 04.04. (월) | 이아영 |         ["쓰레드와 프로세스"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Thread.md)          |
-| 04.06. (수) | 구련아 | ["프론트엔드에서 클린 코드 짜기"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Frontend_CleanCode.md) |
-| 04.11. (월) | 민성재 |  ["CORS에러와 해결책"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/CORS%EC%97%90%EB%9F%AC%EC%99%80%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)                                                                                                                                      |
-| 04.13. (수) | 박정환 |              ["npm VS yarn"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/npm%26yarn.md)              |
-| 04.18. (월) | 진형준 |                                                                    -                                                                    |
-| 04.20. (수) | 왕수련 |  ["Login과 OAuth"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Login_OAuth.md)                              |
-| 04.25. (월) | 최지우 |                                                                    -                                                                    |
-| 04.27. (수) | 김다인 |                                                                    -                                                                    |
+| 날짜 (요일) | 발표자 |                                                                            발표 제목                                                                             |
+| :---------: | :----: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 04.04. (월) | 이아영 |                      ["쓰레드와 프로세스"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Thread.md)                      |
+| 04.06. (수) | 구련아 |             ["프론트엔드에서 클린 코드 짜기"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Frontend_CleanCode.md)              |
+| 04.11. (월) | 민성재 | ["CORS에러와 해결책"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/CORS%EC%97%90%EB%9F%AC%EC%99%80%20%ED%95%B4%EA%B2%B0%EB%B2%95.md) |
+| 04.13. (수) | 박정환 |                          ["npm VS yarn"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/npm%26yarn.md)                           |
+| 04.18. (월) | 진형준 |                                                                                -                                                                                 |
+| 04.20. (수) | 왕수련 |                            ["Login과 OAuth"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Login_OAuth.md)                            |
+| 04.25. (월) | 최지우 |                                                                                -                                                                                 |
+
+### 2022년 05월
+
+| 날짜 (요일) | 발표자 | 발표 제목 |
+| :---------: | :----: | :-------: |
+| 05.02. (월) | 김다인 |     -     |
+| 05.04. (수) | 이아영 |     -     |
+| 05.09. (월) | 구련아 |     -     |
+| 05.11. (수) | 민성재 |     -     |
+| 05.16. (월) | 박정환 |     -     |
+| 05.18. (수) | 진형준 |     -     |
+| 05.23. (월) | 왕수련 |     -     |
+| 05.25. (수) | 최지우 |     -     |
+| 05.30. (월) | 김다인 |     -     |
 
 <!-- ### 2022년 00월
 
@@ -337,8 +350,8 @@
 | 11  |                                       ["HTML과 SEO"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/SEO.md)                                        |
 | 12  |                                    ["REST GUIDE"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/REST_GUIDE.md)                                    |
 | 13  |                               ["웹 성능 최적화"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/WebOptimization.md)                                |
-| 14  |  ["CORS에러와 해결법"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/CORS%EC%97%90%EB%9F%AC%EC%99%80%20%ED%95%B4%EA%B2%B0%EB%B2%95.md) |
-| 15 |   ["Login과 OAuth"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Login_OAuth.md)    |
+| 14  |       ["CORS에러와 해결법"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/CORS%EC%97%90%EB%9F%AC%EC%99%80%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)       |
+| 15  |                                  ["Login과 OAuth"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Login_OAuth.md)                                  |
 
 <br />
 
