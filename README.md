@@ -277,7 +277,7 @@
 | 04.06. (수) | 구련아 |             ["프론트엔드에서 클린 코드 짜기"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Frontend_CleanCode.md)              |
 | 04.11. (월) | 민성재 | ["CORS에러와 해결책"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/CORS%EC%97%90%EB%9F%AC%EC%99%80%20%ED%95%B4%EA%B2%B0%EB%B2%95.md) |
 | 04.13. (수) | 박정환 |                          ["npm VS yarn"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/npm%26yarn.md)                           |
-| 04.18. (월) | 진형준 |                                                                                -                                                                                 |
+| 04.18. (월) | 진형준 | ["싱글톤 패턴"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/singleton.md) |                                                                                -                                                                                 |
 | 04.20. (수) | 왕수련 |                            ["Login과 OAuth"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Login_OAuth.md)                            |
 | 04.25. (월) | 최지우 |                                                                                -                                                                                 |
 
@@ -430,3 +430,4 @@
 |  6  |    ["Digital Transformation"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Digital_Transformation.md)     |
 |  7  |                   ["FinTech"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/FinTech.md)                    |
 |  8  |            ["Design Pattern"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Design_Pattern.md)             |
+|9|["싱글톤 패턴"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/singleton.md) |
