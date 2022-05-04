@@ -288,12 +288,12 @@
 | 05.02. (월) | 김다인 |                                                                 -                                                                 |
 | 05.04. (수) | 이아영 | ["프로세스 메모리 구조"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Process_Memory.md) |
 | 05.09. (월) | 구련아 |                                                          "디자인 시스템"                                                          |
-| 05.11. (수) | 민성재 |                                                                 -                                                                 |
-| 05.16. (월) | 박정환 |                                                                 -                                                                 |
-| 05.18. (수) | 진형준 |                                                                 -                                                                 |
-| 05.23. (월) | 왕수련 |                                                                 -                                                                 |
-| 05.25. (수) | 최지우 |                                                                 -                                                                 |
-| 05.30. (월) | 김다인 |                                                                 -                                                                 |
+| 05.16. (월) | 민성재 |                                                                 -                                                                 |
+|      "      | 박정환 |                                                                 -                                                                 |
+| 05.23. (월) | 진형준 |                                                                 -                                                                 |
+|      "      | 왕수련 |                                                                 -                                                                 |
+| 05.30. (월) | 최지우 |                                                                 -                                                                 |
+|      "      | 김다인 |                                                                 -                                                                 |
 
 <!-- ### 2022년 00월
 
@@ -431,4 +431,10 @@
 |  6  |    ["Digital Transformation"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Digital_Transformation.md)     |
 |  7  |                   ["FinTech"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/FinTech.md)                    |
 |  8  |            ["Design Pattern"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Design_Pattern.md)             |
-|  9  |                ["싱글톤 패턴"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/singleton.md)                 |
+
+<<<<<<< HEAD
+| 9 | ["싱글톤 패턴"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/singleton.md) |
+=======
+|9|["싱글톤 패턴"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/singleton.md) |
+
+> > > > > > > 45038f6a707181d83337bfe85e449084dd7090dc
