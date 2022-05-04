@@ -17,7 +17,7 @@
 
 ### 프로세스에 할당되는 메모리 영역
 
-![image](https://user-images.githubusercontent.com/58917737/166688429-650a8a0f-52ab-4e06-a356-0258170ca183.png)
+<img src = "https://user-images.githubusercontent.com/58917737/166688429-650a8a0f-52ab-4e06-a356-0258170ca183.png" width="150px">
 
 프로세스가 시스템으로부터 할당받은 메모리의 구조는 다음과 같다.
 
