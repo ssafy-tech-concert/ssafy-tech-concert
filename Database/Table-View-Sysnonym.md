@@ -25,7 +25,7 @@
 - <h3>3. Synonym</h3>
   - ALIAS 같은 테이블의 이름을 변경한거나 줄일 때 사용. 보통 다른 유저의 객체를 참조할 때 많이 사용한다.
 
-<img src="../images/synonym_1.png" alt="synonym_1" />
+<img src="../images/synonym_1.PNG" alt="synonym_1" />
 
 <br />
 
@@ -52,7 +52,7 @@ create table emp
 
 select * from emp;
 
-<img src="../images/synonym_2.png" alt="synonym_1" />
+<img src="../images/synonym_2.PNG" alt="synonym_1" />
 
 뷰 생성
 
@@ -62,14 +62,14 @@ from emp;
 
 select * from emp_v;
 
-<img src="../images/synonym_3.png" alt="synonym_1" />
+<img src="../images/synonym_3.PNG" alt="synonym_1" />
 
 시노님 생성
 
 create synonym emp
 for scott.emp_v;
 
-<img src="../images/synonym_4.png" alt="synonym_1" />
+<img src="../images/synonym_4.PNG" alt="synonym_1" />
 
 select * from emp;
 
