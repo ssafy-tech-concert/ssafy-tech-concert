@@ -289,7 +289,7 @@
 | 05.04. (수) | 이아영 | ["프로세스 메모리 구조"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Process_Memory.md) |
 | 05.09. (월) | 구련아 |                                                          "반응형 프로그래밍"                                                          |
 | 05.16. (월) | 민성재 |                                                            "프록시 서버"                                                                 |
-|      "      | 박정환 |                                                                 -                                                                 |
+|      "      | 박정환 |                                                                 "Flutter"                                                                 |
 | 05.23. (월) | 진형준 |                                                                 -                                                                 |
 |      "      | 왕수련 |                                                                 -                                                                 |
 | 05.30. (월) | 최지우 |                                                                 -                                                                 |
