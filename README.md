@@ -279,21 +279,20 @@
 | 04.13. (수) | 박정환 |                          ["npm VS yarn"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/npm%26yarn.md)                           |
 | 04.18. (월) | 진형준 |                              ["싱글톤 패턴"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/singleton.md)                              |
 | 04.20. (수) | 왕수련 |                            ["Login과 OAuth"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Login_OAuth.md)                            |
-| 04.25. (월) | 최지우 |                ["Table-View-Sysnonym"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/Table-View-Sysnonym.md)                                                                -                                                                                 |
+| 04.25. (월) | 최지우 |                 ["Table-View-Sysnonym"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/Table-View-Sysnonym.md) -                  |
 
 ### 2022년 05월
 
 | 날짜 (요일) | 발표자 |                                                             발표 제목                                                             |
 | :---------: | :----: | :-------------------------------------------------------------------------------------------------------------------------------: |
-| 05.02. (월) | 김다인 |                    ["TCL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/TCL.md)                     |
+| 05.02. (월) | 김다인 |                   ["TCL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/TCL.md)                   |
 | 05.04. (수) | 이아영 | ["프로세스 메모리 구조"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Process_Memory.md) |
-| 05.09. (월) | 구련아 |                                                          "반응형 프로그래밍"                                                          |
-| 05.16. (월) | 민성재 |                                                            "프록시 서버"                                                                 |
-|      "      | 박정환 |                                                                 "Flutter"                                                                 |
-| 05.23. (월) | 진형준 |                                                                 -                                                                 |
-|      "      | 왕수련 |                                                                 -                                                                 |
-| 05.30. (월) | 최지우 |                                                                 -                                                                 |
-|      "      | 김다인 |                                                                 -                                                                 |
+| 05.09. (월) | 구련아 |                                                        "반응형 프로그래밍"                                                        |
+| 05.16. (월) | 박정환 |             ["플러터(Flutter)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/flutter.md)              |
+| 05.23. (월) | 민성재 |                                                           "프록시 서버"                                                           |
+|      "      | 진형준 |                                                                 -                                                                 |
+| 05.30. (월) | 왕수련 |                                                                 -                                                                 |
+|      "      | 최지우 |                                                                 -                                                                 |
 
 <!-- ### 2022년 00월
 
@@ -402,7 +401,7 @@
 |  2  |                                                                               ["SQL NOSQL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/tree/master/Database/SQL_NOSQL.md)                                                                               |
 |  3  |                                                                                   ["JDBC란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/JDBC.md)                                                                                   |
 |  4  | ["인덱스는 왜 대부분 B-Tree를 선택했을까"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/%EC%9D%B8%EB%8D%B1%EC%8A%A4%EB%8A%94_%EC%99%9C_%EB%8C%80%EB%B6%80%EB%B6%84_B-Tree%EB%A5%BC_%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84%EA%B9%8C.md) |
-|  5  |                 ["TCL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/TCL.md)                         |
+|  5  |                                                                                     ["TCL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/TCL.md)                                                                                     |
 
 <br />
 
@@ -433,3 +432,4 @@
 |  7  |                   ["FinTech"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/FinTech.md)                    |
 |  8  |            ["Design Pattern"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Design_Pattern.md)             |
 |  9  |                ["싱글톤 패턴"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/singleton.md)                 |
+| 10  |               ["플러터(Flutter)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/flutter.md)                |
