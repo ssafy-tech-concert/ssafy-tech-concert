@@ -279,7 +279,7 @@
 | 04.13. (수) | 박정환 |                          ["npm VS yarn"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/npm%26yarn.md)                           |
 | 04.18. (월) | 진형준 |                              ["싱글톤 패턴"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/singleton.md)                              |
 | 04.20. (수) | 왕수련 |                            ["Login과 OAuth"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Login_OAuth.md)                            |
-| 04.25. (월) | 최지우 |                 ["Table-View-Sysnonym"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/Table-View-Sysnonym.md) -                  |
+| 04.25. (월) | 최지우 |                  ["Table-View-Sysnonym"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/Table-View-Sysnonym.md)                   |
 
 ### 2022년 05월
 
