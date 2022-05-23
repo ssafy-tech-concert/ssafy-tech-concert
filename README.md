@@ -287,7 +287,7 @@
 | :---------: | :----: | :-------------------------------------------------------------------------------------------------------------------------------: |
 | 05.02. (월) | 김다인 |                   ["TCL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/TCL.md)                   |
 | 05.04. (수) | 이아영 | ["프로세스 메모리 구조"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Process_Memory.md) |
-| 05.09. (월) | 구련아 |                                                        "반응형 프로그래밍"                                                        |
+| 05.09. (월) | 구련아 |   ["반응형 프로그래밍"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Reactive_Programming.md)   |
 | 05.16. (월) | 박정환 |             ["플러터(Flutter)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/flutter.md)              |
 | 05.23. (월) | 민성재 |                                                           "프록시 서버"                                                           |
 |      "      | 왕수련 |                                                                 -                                                                 |
@@ -371,6 +371,7 @@
 |  8  |           ["프론트엔드의 테스트 종류와 예시"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Frontend_Test.md)            |
 |  9  |          ["프론트엔드에서 클린 코드 짜기"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Frontend_CleanCode.md)          |
 | 10  |                       ["npm VS yarn"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/npm%26yarn.md)                       |
+| 11  |               ["반응형 프로그래밍"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Reactive_Programming.md)               |
 
 <br />
 
