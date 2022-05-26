@@ -289,7 +289,7 @@
 | 05.04. (수) | 이아영 | ["프로세스 메모리 구조"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Process_Memory.md) |
 | 05.09. (월) | 구련아 |   ["반응형 프로그래밍"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Reactive_Programming.md)   |
 | 05.16. (월) | 박정환 |             ["플러터(Flutter)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/flutter.md)              |
-| 05.23. (월) | 민성재 |                                                           "프록시 서버"                                                           |
+| 05.23. (월) | 민성재 |       ["프록시 서버"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Proxy%20server.md)                  |
 |      "      | 왕수련 |                                                                 -                                                                 |
 | 05.30. (월) | 진형준 |                                                                 -                                                                 |
 |      "      | 최지우 |                                                                 -                                                                 |
@@ -351,7 +351,8 @@
 | 12  |                                    ["REST GUIDE"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/REST_GUIDE.md)                                    |
 | 13  |                               ["웹 성능 최적화"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/WebOptimization.md)                                |
 | 14  |       ["CORS에러와 해결법"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/CORS%EC%97%90%EB%9F%AC%EC%99%80%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)       |
-| 15  |                                  ["Login과 OAuth"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Login_OAuth.md)                                  |
+| 15  |                                  ["Login과 OAuth"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Login_OAuth.md)                  |
+| 16  | ["프록시 서버"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Proxy%20server.md)
 
 <br />
 
