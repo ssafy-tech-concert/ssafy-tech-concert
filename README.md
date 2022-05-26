@@ -289,7 +289,7 @@
 | 05.04. (수) | 이아영 | ["프로세스 메모리 구조"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/Process_Memory.md) |
 | 05.09. (월) | 구련아 |   ["반응형 프로그래밍"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Reactive_Programming.md)   |
 | 05.16. (월) | 박정환 |             ["플러터(Flutter)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/flutter.md)              |
-| 05.23. (월) | 민성재 |            ["프록시 서버"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Proxy%20server.md)            |
+| 05.26. (목) | 민성재 |            ["프록시 서버"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Proxy%20server.md)            |
 | 05.30. (월) | 왕수련 |                                                                 -                                                                 |
 |      "      | 최지우 |                                                                 -                                                                 |
 
