@@ -305,7 +305,7 @@
 
 | 날짜 (요일) | 발표자 | 발표 제목 |
 | :---------: | :----: | :-------: |
-| 07.04. (월) | 구련아 |    "브라우저 렌더링 과정"      |
+| 07.04. (월) | 구련아 |    ["브라우저 렌더링 과정"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Browser_Rendering.md)      |
 | 07.11. (월) | 박정환 |     -     |
 | 07.18. (월) | 민성재 |     -     |
 | 00.25. (월) | 왕수련 |     -     |
@@ -376,6 +376,7 @@
 | 10  |                       ["npm VS yarn"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/npm%26yarn.md)                       |
 | 11  |               ["반응형 프로그래밍"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Reactive_Programming.md)               |
 | 12  |                    ["Websquare"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/WebSquare.md)                            | 
+| 13  |                    ["브라우저 렌더링 과정"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Browser_Rendering.md)                            | 
 
 <br />
 
