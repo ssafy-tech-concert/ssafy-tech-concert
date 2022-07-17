@@ -290,8 +290,8 @@
 | 05.09. (월) | 구련아 |   ["반응형 프로그래밍"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Reactive_Programming.md)   |
 | 05.16. (월) | 박정환 |             ["플러터(Flutter)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/flutter.md)              |
 | 05.26. (목) | 민성재 |            ["프록시 서버"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/web/Proxy%20server.md)            |
-| 05.30. (월) | 왕수련 |           ["Websquare"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/WebSquare.md)             |
-|      "      | 최지우 |           ["필터와 인터셉터"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Filter_Interceptor.md)|
+| 05.30. (월) | 왕수련 |            ["Websquare"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/WebSquare.md)             |
+|      "      | 최지우 |     ["필터와 인터셉터"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Filter_Interceptor.md)      |
 
 ### 2022년 06월
 
@@ -303,12 +303,10 @@
 
 ### 2022년 07월
 
-| 날짜 (요일) | 발표자 | 발표 제목 |
-| :---------: | :----: | :-------: |
-| 07.04. (월) | 구련아 |    ["브라우저 렌더링 과정"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Browser_Rendering.md)      |
-| 07.11. (월) | 박정환 |     -     |
-| 07.18. (월) | 민성재 |     -     |
-| 00.25. (월) | 왕수련 |     -     |
+| 날짜 (요일) | 발표자 |                                                           발표 제목                                                           |
+| :---------: | :----: | :---------------------------------------------------------------------------------------------------------------------------: |
+| 07.04. (월) | 구련아 | ["브라우저 렌더링 과정"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Browser_Rendering.md) |
+| 07.25. (월) | 박정환 |                                                               -                                                               |
 
 <br />
 
@@ -375,8 +373,8 @@
 |  9  |          ["프론트엔드에서 클린 코드 짜기"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Frontend_CleanCode.md)          |
 | 10  |                       ["npm VS yarn"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/npm%26yarn.md)                       |
 | 11  |               ["반응형 프로그래밍"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Reactive_Programming.md)               |
-| 12  |                    ["Websquare"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/WebSquare.md)                            | 
-| 13  |                    ["브라우저 렌더링 과정"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Browser_Rendering.md)                            | 
+| 12  |                        ["Websquare"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/WebSquare.md)                         |
+| 13  |               ["브라우저 렌더링 과정"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Browser_Rendering.md)               |
 
 <br />
 
