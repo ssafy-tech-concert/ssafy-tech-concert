@@ -306,7 +306,7 @@
 | 날짜 (요일) | 발표자 |                                                           발표 제목                                                           |
 | :---------: | :----: | :---------------------------------------------------------------------------------------------------------------------------: |
 | 07.04. (월) | 구련아 | ["브라우저 렌더링 과정"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Front-end/Browser_Rendering.md) |
-| 07.25. (월) | 박정환 |                                                               -                                                               |
+| 07.25. (월) | 박정환 |          ["Git branch 전략"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Git_branch.md)          |
 
 <br />
 
@@ -437,3 +437,4 @@
 |  8  |            ["Design Pattern"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Design_Pattern.md)             |
 |  9  |                ["싱글톤 패턴"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/singleton.md)                 |
 | 10  |               ["플러터(Flutter)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/flutter.md)                |
+| 11  |              ["Git branch 전략"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Git_branch.md)              |

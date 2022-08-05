@@ -1,12 +1,14 @@
 <div align="center">
   <br />
-  <h1>git branch 전략</h1>
+  <h1>Git branch 전략</h1>
   <br />
 </div>
 
 ## 목차
 
 1. [**Git branch 전략이란**](#1)
+
+<br />
 
 <div id="1" />
 
