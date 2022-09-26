@@ -295,11 +295,11 @@
 
 ### 2022년 06월
 
-| 날짜 (요일) | 발표자 | 발표 제목 |
-| :---------: | :----: | :-------: |
-| 06.13. (월) | 진형준 |     -     |
-| 06.20. (월) | 김다인 |     -     |
-| 06.27. (월) | 이아영 |     -     |
+| 날짜 (요일) | 발표자 |                                                     발표 제목                                                      |
+| :---------: | :----: | :----------------------------------------------------------------------------------------------------------------: |
+| 06.13. (월) | 진형준 |                                                         -                                                          |
+| 06.20. (월) | 김다인 |                                                         -                                                          |
+| 06.27. (월) | 이아영 | ["Jenkins Pipeline"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Jenkins_Pipeline.md) |
 
 ### 2022년 07월
 
@@ -312,11 +312,11 @@
 
 ### 2022년 08월
 
-| 날짜 (요일) | 발표자 | 발표 제목 |
-| :---------: | :----: | :-------: |
-| 08.01. (월) | 민성재 |     ["오라클 Like 문법 팁"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/Oracle_Like.md)    |
-| 08.22. (월) | 왕수련 |     -     |
-| 08.29. (월) | 최지우 |     -     |
+| 날짜 (요일) | 발표자 |                                                       발표 제목                                                       |
+| :---------: | :----: | :-------------------------------------------------------------------------------------------------------------------: |
+| 08.01. (월) | 민성재 | ["오라클 Like 문법 팁"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/Oracle_Like.md) |
+| 08.22. (월) | 왕수련 |                                                           -                                                           |
+| 08.29. (월) | 최지우 |                                                           -                                                           |
 
 <div id="4"></div>
 
@@ -413,8 +413,8 @@
 |  2  |                                                                               ["SQL NOSQL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/tree/master/Database/SQL_NOSQL.md)                                                                               |
 |  3  |                                                                                   ["JDBC란"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/JDBC.md)                                                                                   |
 |  4  | ["인덱스는 왜 대부분 B-Tree를 선택했을까"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/%EC%9D%B8%EB%8D%B1%EC%8A%A4%EB%8A%94_%EC%99%9C_%EB%8C%80%EB%B6%80%EB%B6%84_B-Tree%EB%A5%BC_%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84%EA%B9%8C.md) |
-|  5  |                                                                                     ["TCL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/TCL.md)   |
-|  6  |  ["오라클 Like 문법 팁"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/Oracle_Like.md)
+|  5  |                                                                                     ["TCL"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/TCL.md)                                                                                     |
+|  6  |                                                                         ["오라클 Like 문법 팁"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/Oracle_Like.md)                                                                         |
 
 <br />
 
@@ -447,3 +447,4 @@
 |  9  |                ["싱글톤 패턴"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/singleton.md)                 |
 | 10  |               ["플러터(Flutter)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/flutter.md)                |
 | 11  |              ["Git branch 전략"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Git_branch.md)              |
+| 11  |          ["Jenkins Pipeline"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Jenkins_Pipeline.md)           |
