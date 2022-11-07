@@ -313,22 +313,22 @@
 | 날짜 (요일) | 발표자 |                                                       발표 제목                                                       |
 | :---------: | :----: | :-------------------------------------------------------------------------------------------------------------------: |
 | 08.01. (월) | 민성재 | ["오라클 Like 문법 팁"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Database/Oracle_Like.md) |
-| 08.29. (월) | 진형준 | - |
+| 08.29. (월) | 진형준 |                                                           -                                                           |
 
 ### 2022년 09월
 
-| 날짜 (요일) | 발표자 |                                                       발표 제목                                                       |
-| :---------: | :----: | :-------------------------------------------------------------------------------------------------------------------: |
-| 09.19. (월) | 왕수련 | - |
-| 09.26. (월) | 최지우 | - |
+| 날짜 (요일) | 발표자 | 발표 제목 |
+| :---------: | :----: | :-------: |
+| 09.19. (월) | 왕수련 |     -     |
+| 09.26. (월) | 최지우 |     -     |
 
 ### 2022년 10월
 
-| 날짜 (요일) | 발표자 |                                                       발표 제목                                                       |
-| :---------: | :----: | :-------------------------------------------------------------------------------------------------------------------: |
-| 10.17. (월) | 김다인 | - |
-| 10.24. (월) | 이아영 | - |
-| 10.31. (월) | 구련아 | - |
+| 날짜 (요일) | 발표자 |                                           발표 제목                                           |
+| :---------: | :----: | :-------------------------------------------------------------------------------------------: |
+| 10.17. (월) | 김다인 |                                               -                                               |
+| 11.07. (월) | 이아영 | ["AOP"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/AOP.md) |
+| 10.31. (월) | 구련아 |                                               -                                               |
 
 <br />
 
@@ -414,6 +414,7 @@
 |  6  |                  ["Load Balancing"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Load%20Balancing.md)                  |
 |  7  | ["단위 테스트 - Junit, Mockito"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/Unit%20Test%20-%20JUnit%2C%20Mockito.md) |
 |  8  |            ["Spring Boot + Redis 적용"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/SpringBoot%26Redis.md)            |
+|  9  |                              ["AOP"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Back-end/AOP.md)                              |
 
 <br />
 
