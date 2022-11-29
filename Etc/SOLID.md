@@ -99,7 +99,9 @@
 <br />
 <br />
 
-###### 출처: []()
+###### 출처: [클린 아키텍처(로버트 C. 마틴 지음, 송준이 옮김, 인사이트, 2021)](http://www.yes24.com/Product/Goods/77283734), [SOLID 원칙](https://johngrib.github.io/wiki/jargon/solid/)
+
+###### 함께 보면 좋은 자료: [객체지향 5원칙 : SOLID](https://jaeyeong951.medium.com/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-5%EC%9B%90%EC%B9%99-solid-ac7d4d660f4d), [[OOP] 객체지향 5원칙(SOLID) - 인터페이스 분리 원칙 (Interface Segregation Principle)](https://blog.itcode.dev/posts/2021/08/16/interface-segregation-principle), [[OOP] 객체지향 5원칙(SOLID) - 리스코프 치환 원칙 (Liskov Subsitution Principle)](https://blog.itcode.dev/posts/2021/08/15/liskov-subsitution-principle)
 
 <br />
 <br />
