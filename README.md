@@ -338,8 +338,7 @@
 
 | 날짜 (요일) | 발표자 |                                           발표 제목                                           |
 | :---------: | :----: | :-------------------------------------------------------------------------------------------: |
-| 12.19. (월) | 구련아 |                                               -                                               |
-| 12.26. (월) | 박정환 |                                               -                                               |
+| 12.26. (월) | 구련아 | ["SOLID"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/SOLID.md) |
 
 <br />
 
@@ -474,3 +473,4 @@
 | 10  |               ["플러터(Flutter)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/flutter.md)                |
 | 11  |              ["Git branch 전략"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Git_branch.md)              |
 | 11  |          ["Jenkins Pipeline"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Jenkins_Pipeline.md)           |
+| 12 | ["SOLID"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/SOLID.md) |
