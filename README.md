@@ -324,9 +324,9 @@
 
 ### 2022년 10월
 
-| 날짜 (요일) | 발표자 |                                           발표 제목                                           |
-| :---------: | :----: | :-------------------------------------------------------------------------------------------: |
-| 10.24. (월) | 김다인 |                                               -                                               |
+| 날짜 (요일) | 발표자 | 발표 제목 |
+| :---------: | :----: | :-------: |
+| 10.24. (월) | 김다인 |     -     |
 
 ### 2022년 11월
 
@@ -336,17 +336,22 @@
 
 ### 2022년 12월
 
-| 날짜 (요일) | 발표자 |                                           발표 제목                                           |
-| :---------: | :----: | :-------------------------------------------------------------------------------------------: |
+| 날짜 (요일) | 발표자 |                                          발표 제목                                           |
+| :---------: | :----: | :------------------------------------------------------------------------------------------: |
 | 12.26. (월) | 구련아 | ["SOLID"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/SOLID.md) |
-
 
 ### 2023년 01월
 
-| 날짜 (요일) | 발표자 |                                           발표 제목                                           |
-| :---------: | :----: | :-------------------------------------------------------------------------------------------: |
-| 01.02. (월) | 박정환 | "API First Design" | 
+| 날짜 (요일) | 발표자 |     발표 제목      |
+| :---------: | :----: | :----------------: |
+| 01.02. (월) | 박정환 | "API First Design" |
 
+### 2023년 02월
+
+| 날짜 (요일) | 발표자 | 발표 제목 |
+| :---------: | :----: | :-------: |
+| 02.06. (월) | 왕수련 |     -     |
+| 02.20. (월) | 진형준 |     -     |
 
 <br />
 
@@ -481,4 +486,4 @@
 | 10  |               ["플러터(Flutter)"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/flutter.md)                |
 | 11  |              ["Git branch 전략"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Git_branch.md)              |
 | 11  |          ["Jenkins Pipeline"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/Jenkins_Pipeline.md)           |
-| 12 | ["SOLID"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/SOLID.md) |
+| 12  |                     ["SOLID"](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Etc/SOLID.md)                      |
